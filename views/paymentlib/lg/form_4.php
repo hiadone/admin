@@ -1,0 +1,1 @@
+<script language="javascript" src="<?php echo $this->input->server('SERVER_PORT') !== '443' ? 'http' : 'https'; ?>://xpay.uplus.co.kr<?php echo (element('CST_PLATFORM', element('pg', $view)) === 'test') ? ($this->input->server('SERVER_PORT') !== '443' ? ':7080' : ':7443') : ''; ?>/xpay/js/xpay_ub_utf-8.js" type="text/javascript"></script>
