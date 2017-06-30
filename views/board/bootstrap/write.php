@@ -444,7 +444,7 @@ $(function() {
     $('#fwrite').validate({
         rules: {
             post_title: {required :true, minlength:2, maxlength:60},
-            post_md: {required :true, minlength:2, maxlength:60},x
+            post_md: {required :true, minlength:2, maxlength:60},
             post_content : {<?php echo (element('use_dhtml', element('board', $view))) ? 'required_' . $this->cbconfig->item('post_editor_type') : 'required'; ?> : true }
 <?php if (element('is_post_name', element('post', $view))) { ?>
             , post_nickname: {required :true, minlength:2, maxlength:20}

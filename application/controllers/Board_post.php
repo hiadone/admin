@@ -883,7 +883,7 @@ class Board_post extends CB_Controller
         if ($print === false) {
 
             // 이벤트가 존재하면 실행합니다
-            $view['view']['event']['before_post_layout'] = Events::trigger('before_post_layout', $eventname);
+            $view['view']['event']['before_post_layout'] = Events::trigger('before_post_layout_'.element('brd_key', $board), $eventname);
 
             $view['view']['short_url'] = $view['view']['canonical'] = post_url(element('brd_key', $board), $post_id);
             

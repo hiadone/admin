@@ -312,7 +312,8 @@ if (typeof(COMMON_JS) === 'undefined') {
                 } else if (data.success) {
                     alert(data.success);
                     if (data.url) {
-                        document.location.href=data.url;
+                        pressCreateFile(data.url);
+                        document.location.reload();
                     } else {
                         document.location.reload();
                     }
@@ -740,6 +741,30 @@ if (typeof(COMMON_JS) === 'undefined') {
             success : function(data) {
                 $('.notifications-menu').html(data);
                 $('.notification_num').html($('#notification_count').text());
+            }
+        });
+    }
+
+    function pressCreateFile(url) {
+        var href;
+
+        if ( url == '') {
+            return false;
+        }
+
+        href = url;
+        var $that = $(this);
+        $.ajax({
+            url : href,
+            type : 'get',
+            dataType : 'json',
+            success : function(data) {
+                if (data.error) {
+                    alert(data.error);
+                    return false;
+                } else if (data.success) {
+                    
+                }
             }
         });
     }

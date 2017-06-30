@@ -89,7 +89,7 @@ class Events
                 }
             }
         }
-
+        
         return self::_format_return($calls, $return_type);
     }
 

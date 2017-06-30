@@ -1338,12 +1338,12 @@ class Board_write extends CB_Controller
             );
 
             // 이벤트가 존재하면 실행합니다
-            Events::trigger('common_after', $eventname);
-
+            Events::trigger('common_after'.element('brd_key', $board), $eventname);
             /**
              * 게시물의 신규입력 또는 수정작업이 끝난 후 뷰 페이지로 이동합니다
              */
             $redirecturl = post_url(element('brd_key', $board), $post_id);
+
             redirect($redirecturl);
         }
     }
@@ -1907,11 +1907,13 @@ class Board_write extends CB_Controller
          * 유효성 검사를 하지 않는 경우, 또는 유효성 검사에 실패한 경우입니다.
          * 즉 글쓰기나 수정 페이지를 보고 있는 경우입니다
          */
-        if ($form_validation === false OR $file_error) {
 
+        
+        if ($form_validation === false OR $file_error) {
+            
             // 이벤트가 존재하면 실행합니다
             $view['view']['event']['formrunfalse'] = Events::trigger('formrunfalse', $eventname);
-
+            
             /**
              * primary key 정보를 저장합니다
              */
@@ -2495,7 +2497,8 @@ class Board_write extends CB_Controller
             }
 
             // 이벤트가 존재하면 실행합니다
-            Events::trigger('after', $eventname);
+            //Events::trigger('after', $eventname);
+            
 
 
             $this->session->set_flashdata(
@@ -2503,13 +2506,14 @@ class Board_write extends CB_Controller
                 '게시물이 정상적으로 수정되었습니다'
             );
 
+
             /**
              * 게시물의 신규입력 또는 수정작업이 끝난 후 뷰 페이지로 이동합니다
              */
             $param =& $this->querystring;
             $redirecturl = post_url(element('brd_key', $board), $this->input->post($primary_key)) . '?' . $param->output();
 
-            redirect($redirecturl);
+           redirect($redirecturl);
         }
     }
 
