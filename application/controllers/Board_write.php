@@ -302,12 +302,12 @@ class Board_write extends CB_Controller
             array(
                 'field' => 'post_md',
                 'label' => 'MD 코드',
-                'rules' => 'trim|required',
+                'rules' => 'trim|required|is_unique[post.post_md.brd_id.'.element('brd_id', $board).'. = ]',
             ),
             array(
                 'field' => 'post_content',
                 'label' => '내용',
-                'rules' => 'trim|required',
+                'rules' => 'trim',
             ),
         );
         if ($form && is_array($form)) {
@@ -606,12 +606,18 @@ class Board_write extends CB_Controller
 
             $extra_content = array();
 
+
             $k= 0;
+            $default['popstate']='disable';
+            $default['view_type']='random';
             if ($form && is_array($form)) {
                 foreach ($form as $key => $value) {
                     if ( ! element('use', $value)) {
                         continue;
                     }
+
+                    $item = element(element('field_name', $value), $default);
+
                     $required = element('required', $value) ? 'required' : '';
 
                     $extra_content[$k]['field_name'] = element('field_name', $value);
@@ -637,12 +643,14 @@ class Board_write extends CB_Controller
                     } elseif (element('field_type', $value) === 'radio') {
                         $extra_content[$k]['input'] .= '<div class="checkbox">';
                         $options = explode("\n", element('options', $value));
+
                         $i =1;
                         if ($options) {
                             foreach ($options as $okey => $oval) {
-                                $radiovalue = $oval;
-                                $extra_content[$k]['input'] .= '<label for="' . element('field_name', $value) . '_' . $i . '"><input type="radio" name="' . element('field_name', $value) . '" id="' . element('field_name', $value) . '_' . $i . '" value="' . $radiovalue . '" ' . set_radio(element('field_name', $value), $radiovalue) . ' /> ' . $oval . ' </label> ';
+                                $radiovalue = trim($oval);
+                                $extra_content[$k]['input'] .= '<label for="' . element('field_name', $value) . '_' . $i . '"><input type="radio" name="' . element('field_name', $value) . '" id="' . element('field_name', $value) . '_' . $i . '" value="' . $radiovalue . '" ' . set_radio(element('field_name', $value), $radiovalue, ($item === $radiovalue ? true : false)) . ' /> ' . $oval . ' </label> ';
                                 $i++;
+
                             }
                         }
                         $extra_content[$k]['input'] .= '</div>';
@@ -1344,7 +1352,7 @@ class Board_write extends CB_Controller
              */
             $redirecturl = post_url(element('brd_key', $board), $post_id);
 
-            redirect($redirecturl);
+           redirect($redirecturl);
         }
     }
 
@@ -1668,7 +1676,7 @@ class Board_write extends CB_Controller
             array(
                 'field' => 'post_content',
                 'label' => '내용',
-                'rules' => 'trim|required',
+                'rules' => 'trim',
             ),
         );
 

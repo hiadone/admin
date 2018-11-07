@@ -1,0 +1,109 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:37:{s:7:"post_id";s:2:"11";s:8:"post_num";s:3:"-10";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"1";s:10:"post_title";s:18:"자사코드관리";s:12:"post_content";s:2875:"$sCode = "03Kq"; // 트래픽 체크
+$pageid1 = "03wB"; // 홈_상단_배너1_5슬롯_670X312
+$pageid2 = "03wM"; // 홈_상단 배너2_4슬롯_302X200
+$pageid3 = "04A8"; // 요일별_월요일_웹툰_9슬롯_214X200
+$pageid4 = "03x5"; // 홈_배너_1_360X150
+$pageid5 = "03wY"; // 홈_완결웹툰_6슬롯_328X200
+$pageid6 = "03xG"; // 홈_배너_2_360X150
+$pageid7 = "03wj"; // 홈_성인웹툰_6슬롯_328X200
+$pageid8 = "03wu"; // 홈_주간 베스트_4슬롯_302X200
+$pageid9 = "03xR"; // 홈_하단배너_3_670X400
+
+// 요일별
+$pageid10 = "03xg"; // 요일별_월요일_웹툰_9슬롯_214X200
+$pageid11 = "03xr"; // 요일별_화요일_웹툰_9슬롯_214X200
+$pageid12 = "03y2"; // 요일별_수요일_웹툰_9슬롯_214X200
+$pageid13 = "03yD"; // 요일별_목요일_웹툰_9슬롯_214X200
+$pageid14 = "03yZ"; // 요일별_금요일_웹툰_9슬롯_214X200
+$pageid15 = "03ya"; // 요일별_토요일_웹툰_9슬롯_214X200
+$pageid16 = "03yl"; // 요일별_일요일_웹툰_9슬롯_214X200
+$pageid17 = "03yx"; // 요일별_하단배너_670X400
+
+//해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04A8"; // 요일별_월요일_웹툰_9슬롯_214X200
+$weekPageId[2] = "04AB"; // 요일별_화요일_웹툰_9슬롯_214X200
+$weekPageId[3] = "04A7"; // 요일별_수요일_웹툰_9슬롯_214X200
+$weekPageId[4] = "04A6"; // 요일별_목요일_웹툰_9슬롯_214X200
+$weekPageId[5] = "04A5"; // 요일별_금요일_웹툰_9슬롯_214X200
+$weekPageId[6] = "04AA"; // 요일별_토요일_웹툰_9슬롯_214X200
+$weekPageId[0] = "04A9"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+// 성인
+$pageid18 = "042a"; // 성인_투믹스 독점작_6슬롯_328X200
+$pageid19 = "042l"; // PD 강력추천작_302X200
+$pageid20 = "048P"; // 성인_배너_1_360X15
+$pageid21 = "042w"; // 정주행 추천작_9슬롯_214X200
+$pageid22 = "048b"; // 성인_배너_2_360X150
+$pageid23 = "0437"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+$pageid24 = "043I"; // 성인_하단배너_670X400
+
+// 장르별
+$pageid25 = "040f"; // 장르별_로맨스_웹툰_9슬롯_214X200
+$pageid26 = "040q"; // 장르별_액션_웹툰_9슬롯_214X200
+$pageid27 = "048P"; // 장르별_배너_1_360X150
+$pageid28 = "0411"; // 장르별_스포츠_웹툰_9슬롯_214X200
+$pageid29 = "041C"; // 장르별_드라마_웹툰_9슬롯_214X200
+$pageid30 = "048b"; // 장르별_배너_2_360X150
+$pageid31 = "041N"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+$pageid32 = "041Y"; // 장르별_코믹_웹툰_9슬롯_214X200
+$pageid33 = "041j"; // 장르별_하단배너_670X400
+
+// 주간 베스트
+$pageid34 = "03zA"; // 완결_완결웹툰_30슬롯_328X200
+$pageid35 = "047g"; // 완결_배너_360X150
+$pageid36 = "049B"; // 완결_완결웹툰_30슬롯2_328X200
+$pageid37 = "03zL"; // 완결_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-17 14:48:52";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-27 18:58:29";s:18:"post_update_mem_id";s:1:"1";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"0";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"48";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:7:"default";s:7:"post_js";s:138:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=default&brd_key=hiadone_webtoon'></script>";}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":37:{s:7:"post_id";s:2:"11";s:8:"post_num";s:3:"-10";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"1";s:10:"post_title";s:18:"자사코드관리";s:12:"post_content";s:2875:"$sCode = "03Kq"; // 트래픽 체크
+$pageid1 = "03wB"; // 홈_상단_배너1_5슬롯_670X312
+$pageid2 = "03wM"; // 홈_상단 배너2_4슬롯_302X200
+$pageid3 = "04A8"; // 요일별_월요일_웹툰_9슬롯_214X200
+$pageid4 = "03x5"; // 홈_배너_1_360X150
+$pageid5 = "03wY"; // 홈_완결웹툰_6슬롯_328X200
+$pageid6 = "03xG"; // 홈_배너_2_360X150
+$pageid7 = "03wj"; // 홈_성인웹툰_6슬롯_328X200
+$pageid8 = "03wu"; // 홈_주간 베스트_4슬롯_302X200
+$pageid9 = "03xR"; // 홈_하단배너_3_670X400
+
+// 요일별
+$pageid10 = "03xg"; // 요일별_월요일_웹툰_9슬롯_214X200
+$pageid11 = "03xr"; // 요일별_화요일_웹툰_9슬롯_214X200
+$pageid12 = "03y2"; // 요일별_수요일_웹툰_9슬롯_214X200
+$pageid13 = "03yD"; // 요일별_목요일_웹툰_9슬롯_214X200
+$pageid14 = "03yZ"; // 요일별_금요일_웹툰_9슬롯_214X200
+$pageid15 = "03ya"; // 요일별_토요일_웹툰_9슬롯_214X200
+$pageid16 = "03yl"; // 요일별_일요일_웹툰_9슬롯_214X200
+$pageid17 = "03yx"; // 요일별_하단배너_670X400
+
+//해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04A8"; // 요일별_월요일_웹툰_9슬롯_214X200
+$weekPageId[2] = "04AB"; // 요일별_화요일_웹툰_9슬롯_214X200
+$weekPageId[3] = "04A7"; // 요일별_수요일_웹툰_9슬롯_214X200
+$weekPageId[4] = "04A6"; // 요일별_목요일_웹툰_9슬롯_214X200
+$weekPageId[5] = "04A5"; // 요일별_금요일_웹툰_9슬롯_214X200
+$weekPageId[6] = "04AA"; // 요일별_토요일_웹툰_9슬롯_214X200
+$weekPageId[0] = "04A9"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+// 성인
+$pageid18 = "042a"; // 성인_투믹스 독점작_6슬롯_328X200
+$pageid19 = "042l"; // PD 강력추천작_302X200
+$pageid20 = "048P"; // 성인_배너_1_360X15
+$pageid21 = "042w"; // 정주행 추천작_9슬롯_214X200
+$pageid22 = "048b"; // 성인_배너_2_360X150
+$pageid23 = "0437"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+$pageid24 = "043I"; // 성인_하단배너_670X400
+
+// 장르별
+$pageid25 = "040f"; // 장르별_로맨스_웹툰_9슬롯_214X200
+$pageid26 = "040q"; // 장르별_액션_웹툰_9슬롯_214X200
+$pageid27 = "048P"; // 장르별_배너_1_360X150
+$pageid28 = "0411"; // 장르별_스포츠_웹툰_9슬롯_214X200
+$pageid29 = "041C"; // 장르별_드라마_웹툰_9슬롯_214X200
+$pageid30 = "048b"; // 장르별_배너_2_360X150
+$pageid31 = "041N"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+$pageid32 = "041Y"; // 장르별_코믹_웹툰_9슬롯_214X200
+$pageid33 = "041j"; // 장르별_하단배너_670X400
+
+// 주간 베스트
+$pageid34 = "03zA"; // 완결_완결웹툰_30슬롯_328X200
+$pageid35 = "047g"; // 완결_배너_360X150
+$pageid36 = "049B"; // 완결_완결웹툰_30슬롯2_328X200
+$pageid37 = "03zL"; // 완결_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-17 14:48:52";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-27 18:58:29";s:18:"post_update_mem_id";s:1:"1";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"0";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"48";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:7:"default";s:7:"post_js";s:138:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=default&brd_key=hiadone_webtoon'></script>";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}

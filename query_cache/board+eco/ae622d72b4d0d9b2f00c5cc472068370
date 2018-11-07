@@ -1,0 +1,627 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:16:{i:0;a:42:{s:7:"post_id";s:2:"72";s:8:"post_num";s:3:"-67";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:38:"지니어스 커뮤니티 웹툰먼저";s:12:"post_content";s:975:"$sCode = "0676"; //pv 체크
+$sIfrCode1 = "04LL" ; // 전체기사
+$sIfrCode2 = "04Lf" ; // 포토뉴스
+$sIfrCode3 = "04Ji" ; // 많이본 뉴스
+$sIfrCode4 = "04Jn" ; // 베스트 신문보기
+$sIfrCode5 = "04Jf" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kg" ; // 요일별 웹툰
+$sIfrCode8 = "04Ky" ; // 인기웹툰
+$sIfrCode9 = "04K7" ; // 베스트게임
+$sIfrCode10 = "04M8"; // 푸터배너
+$sIfrCode11 = "04K7"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MR" ; //신규생활정보
+$sIfrCode15 = "065c" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06ds"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dQ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eY"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eD"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ev"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-07-18 17:43:45";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-18 17:43:45";s:18:"post_update_mem_id";s:1:"0";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"5";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"12";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"61.82.191.161";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"community2";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community2&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:1;a:42:{s:7:"post_id";s:2:"63";s:8:"post_num";s:3:"-58";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:19:"애니툰 리타겟";s:12:"post_content";s:975:"$sCode = "05sZ"; //pv 체크
+$sIfrCode1 = "05Ei" ; // 전체기사
+$sIfrCode2 = "05Eq" ; // 포토뉴스
+$sIfrCode3 = "05Dy" ; // 많이본 뉴스
+$sIfrCode4 = "05EC" ; // 베스트 신문보기
+$sIfrCode5 = "05E4" ; // 주간 핫 리포트
+$sIfrCode7 = "05ES" ; // 요일별 웹툰
+$sIfrCode8 = "05Ea" ; // 인기웹툰
+$sIfrCode9 = "05EJ" ; // 베스트게임
+$sIfrCode10 = "05F6"; // 푸터배너
+$sIfrCode11 = "05EJ"; // 베스트웹툰 랜덤
+$sIfrCode13 = "05Ey" ; //신규생활정보
+$sIfrCode15 = "069Q" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dZ"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dA"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eI"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06dx"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ed"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 15:20:35";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:32:47";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"29";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:2:"re";s:7:"post_js";s:121:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=re&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:2;a:42:{s:7:"post_id";s:2:"62";s:8:"post_num";s:3:"-57";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:19:"애니툰 논타겟";s:12:"post_content";s:975:"$sCode = "05r7"; //pv 체크
+$sIfrCode1 = "05Ei" ; // 전체기사
+$sIfrCode2 = "05Eq" ; // 포토뉴스
+$sIfrCode3 = "05Dy" ; // 많이본 뉴스
+$sIfrCode4 = "05EC" ; // 베스트 신문보기
+$sIfrCode5 = "05E4" ; // 주간 핫 리포트
+$sIfrCode7 = "05ES" ; // 요일별 웹툰
+$sIfrCode8 = "05Ea" ; // 인기웹툰
+$sIfrCode9 = "05EJ" ; // 베스트게임
+$sIfrCode10 = "05F6"; // 푸터배너
+$sIfrCode11 = "05EJ"; // 베스트웹툰 랜덤
+$sIfrCode13 = "05Ey" ; //신규생활정보
+$sIfrCode15 = "069Q" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dZ"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dA"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eI"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06dx"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ed"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 15:19:44";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:32:38";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"12";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:3:"non";s:7:"post_js";s:122:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=non&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:3;a:42:{s:7:"post_id";s:2:"58";s:8:"post_num";s:3:"-53";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:22:"지니어스 언론사";s:12:"post_content";s:975:"$sCode = "0675"; //pv 체크
+$sIfrCode1 = "04Jj" ; // 전체기사
+$sIfrCode2 = "04Jo" ; // 포토뉴스
+$sIfrCode3 = "04It" ; // 많이본 뉴스
+$sIfrCode4 = "04J1" ; // 베스트 신문보기
+$sIfrCode5 = "04Ix" ; // 주간 핫 리포트
+$sIfrCode7 = "04JQ" ; // 요일별 웹툰
+$sIfrCode8 = "04JY" ; // 인기웹툰
+$sIfrCode9 = "04J5" ; // 베스트게임
+$sIfrCode10 = "04K3"; // 푸터배너
+$sIfrCode11 = "04J5"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04K9" ; //신규생활정보
+$sIfrCode15 = "065a" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dr"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dP"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eX"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eC"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eu"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 11:37:22";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:30:33";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"37";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"genius";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=genius&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:4;a:42:{s:7:"post_id";s:2:"57";s:8:"post_num";s:3:"-52";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:9:"애드팝";s:12:"post_content";s:975:"$sCode = "04Gd"; //pv 체크
+$sIfrCode1 = "04LZ" ; // 전체기사
+$sIfrCode2 = "04Lx" ; // 포토뉴스
+$sIfrCode3 = "04JL" ; // 많이본 뉴스
+$sIfrCode4 = "04K1" ; // 베스트 신문보기
+$sIfrCode5 = "04Ja" ; // 주간 핫 리포트
+$sIfrCode7 = "04Ku" ; // 요일별 웹툰
+$sIfrCode8 = "04LG" ; // 인기웹툰
+$sIfrCode9 = "04KL" ; // 베스트게임
+$sIfrCode10 = "04ML"; // 푸터배너
+$sIfrCode11 = "04KL"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04Me" ; //신규생활정보
+$sIfrCode15 = "066r" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06da"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dB"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eJ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06dy"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ee"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 11:24:09";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:07:01";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"15";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:5:"adpop";s:7:"post_js";s:124:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=adpop&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:5;a:42:{s:7:"post_id";s:2:"44";s:8:"post_num";s:3:"-39";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:31:"조세금융신문_연예지면";s:12:"post_content";s:936:"$sCode = "06ps"; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06de"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dF"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eN"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e2"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ek"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-31 17:47:36";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"6";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"tfnews";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=tfnews&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:6;a:42:{s:7:"post_id";s:2:"43";s:8:"post_num";s:3:"-38";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:29:"와이미디어 커뮤니티2";s:12:"post_content";s:936:"$sCode = "06nR"; //pv 체크
+$sIfrCode1 = "04et" ; // 전체기사
+$sIfrCode2 = "04ez" ; // 포토뉴스
+$sIfrCode3 = "04eD" ; // 많이본 뉴스
+$sIfrCode4 = "04eP" ; // 베스트 신문보기
+$sIfrCode5 = "04eM" ; // 주간 핫 리포트
+$sIfrCode7 = "04eh" ; // 요일별 웹툰
+$sIfrCode8 = "04eq" ; // 인기웹툰
+$sIfrCode9 = "04eV" ; // 베스트게임
+$sIfrCode10 = "04f5"; // 푸터배너
+$sIfrCode11 = "04eV"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fB" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dj"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dK"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eS"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e7"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ep"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:12:57";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 14:05:53";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"6";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"community3";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community3&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:7;a:42:{s:7:"post_id";s:2:"42";s:8:"post_num";s:3:"-37";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:29:"와이미디어 커뮤니티1";s:12:"post_content";s:936:"$sCode = "06nQ"; //pv 체크
+$sIfrCode1 = "04es" ; // 전체기사
+$sIfrCode2 = "04ey" ; // 포토뉴스
+$sIfrCode3 = "04eC" ; // 많이본 뉴스
+$sIfrCode4 = "04eO" ; // 베스트 신문보기
+$sIfrCode5 = "04eN" ; // 주간 핫 리포트
+$sIfrCode7 = "04eg" ; // 요일별 웹툰
+$sIfrCode8 = "04er" ; // 인기웹툰
+$sIfrCode9 = "04eU" ; // 베스트게임
+$sIfrCode10 = "04f4"; // 푸터배너
+$sIfrCode11 = "04eU"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fA" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06di"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dJ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eR"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e6"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eo"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:10:57";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 14:05:12";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"4";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"community1";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community1&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:8;a:42:{s:7:"post_id";s:2:"41";s:8:"post_num";s:3:"-36";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:18:"와이미디어앱";s:12:"post_content";s:936:"$sCode = "06mC"; //pv 체크
+$sIfrCode1 = "04LO" ; // 전체기사
+$sIfrCode2 = "04Ll" ; // 포토뉴스
+$sIfrCode3 = "04JE" ; // 많이본 뉴스
+$sIfrCode4 = "04Jt" ; // 베스트 신문보기
+$sIfrCode5 = "04JS" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kl" ; // 요일별 웹툰
+$sIfrCode8 = "04L1" ; // 인기웹툰
+$sIfrCode9 = "04KC" ; // 베스트게임
+$sIfrCode10 = "04MB"; // 푸터배너
+$sIfrCode11 = "04KC"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MU" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dh"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dI"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eQ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e5"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06en"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:09:12";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 14:03:23";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"4";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"ymidea";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=ymidea&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:9;a:42:{s:7:"post_id";s:2:"40";s:8:"post_num";s:3:"-35";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:18:"와이미디어웹";s:12:"post_content";s:936:"$sCode = "06mB"; //pv 체크
+$sIfrCode1 = "04LN" ; // 전체기사
+$sIfrCode2 = "04Lj" ; // 포토뉴스
+$sIfrCode3 = "04JC" ; // 많이본 뉴스
+$sIfrCode4 = "04Jr" ; // 베스트 신문보기
+$sIfrCode5 = "04JR" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kk" ; // 요일별 웹툰
+$sIfrCode8 = "04L0" ; // 인기웹툰
+$sIfrCode9 = "04KA" ; // 베스트게임
+$sIfrCode10 = "04MA"; // 푸터배너
+$sIfrCode11 = "04KA"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MT" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dg"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dH"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eP"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e4"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06em"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:07:00";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 13:52:51";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"4";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:9:"ymideaweb";s:7:"post_js";s:128:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=ymideaweb&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:10;a:42:{s:7:"post_id";s:2:"39";s:8:"post_num";s:3:"-34";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:15:"톱스타뉴스";s:12:"post_content";s:975:"$sCode = "06Yn"; //pv 체크
+$sIfrCode1 = "04gi" ; // 전체기사
+$sIfrCode2 = "04gm" ; // 포토뉴스
+$sIfrCode3 = "04gL" ; // 많이본 뉴스
+$sIfrCode4 = "04gS" ; // 베스트 신문보기
+$sIfrCode5 = "04gO" ; // 주간 핫 리포트
+$sIfrCode7 = "04ga" ; // 요일별 웹툰
+$sIfrCode8 = "04ge" ; // 인기웹툰
+$sIfrCode9 = "04gW" ; // 베스트게임
+$sIfrCode10 = "04gu"; // 푸터배너
+$sIfrCode11 = "04gW"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04gq" ; //신규생활정보
+$sIfrCode15 = "065f" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dt"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dR"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eZ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06eE"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ew"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:45:15";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 19:48:20";s:18:"post_update_mem_id";s:1:"1";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"11";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:11:"topstarnews";s:7:"post_js";s:130:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=topstarnews&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:11;a:42:{s:7:"post_id";s:2:"38";s:8:"post_num";s:3:"-33";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:22:"애드팝 커뮤니티";s:12:"post_content";s:975:"$sCode = "06ko"; //pv 체크
+$sIfrCode1 = "04fx" ; // 전체기사
+$sIfrCode2 = "04g3" ; // 포토뉴스
+$sIfrCode3 = "04fH" ; // 많이본 뉴스
+$sIfrCode4 = "04fT" ; // 베스트 신문보기
+$sIfrCode5 = "04fN" ; // 주간 핫 리포트
+$sIfrCode7 = "04fl" ; // 요일별 웹툰
+$sIfrCode8 = "04fr" ; // 인기웹툰
+$sIfrCode9 = "04fZ" ; // 베스트게임
+$sIfrCode10 = "04g8"; // 푸터배너
+$sIfrCode11 = "04fZ"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04gE" ; //신규생활정보
+$sIfrCode15 = "065e" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06df"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dG"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eO"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e3"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06el"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:43:10";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-13 17:31:48";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"5";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:11:"adcommunity";s:7:"post_js";s:130:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=adcommunity&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:12;a:42:{s:7:"post_id";s:2:"37";s:8:"post_num";s:3:"-32";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:18:"이뉴스투데이";s:12:"post_content";s:502:"$sCode = "06PO"; //pv 체크
+$sIfrCode1 = "04fw" ; // 전체기사
+$sIfrCode2 = "04g2" ; // 포토뉴스
+$sIfrCode3 = "04fG" ; // 많이본 뉴스
+$sIfrCode4 = "04fS" ; // 베스트 신문보기
+$sIfrCode5 = "04fM" ; // 주간 핫 리포트
+$sIfrCode7 = "04fk" ; // 요일별 웹툰
+$sIfrCode8 = "04fq" ; // 인기웹툰
+$sIfrCode9 = "04fY" ; // 베스트게임
+$sIfrCode10 = "04gJ"; // 푸터배너
+$sIfrCode11 = "04fY"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04gD" ; //신규생활정보";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:39:43";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-09 13:45:55";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"7";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"enewstoday";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=enewstoday&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:13;a:42:{s:7:"post_id";s:2:"36";s:8:"post_num";s:3:"-31";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:25:"지니어스 커뮤니티";s:12:"post_content";s:975:"$sCode = "0676"; //pv 체크
+$sIfrCode1 = "04LL" ; // 전체기사
+$sIfrCode2 = "04Lf" ; // 포토뉴스
+$sIfrCode3 = "04Ji" ; // 많이본 뉴스
+$sIfrCode4 = "04Jn" ; // 베스트 신문보기
+$sIfrCode5 = "04Jf" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kg" ; // 요일별 웹툰
+$sIfrCode8 = "04Ky" ; // 인기웹툰
+$sIfrCode9 = "04K7" ; // 베스트게임
+$sIfrCode10 = "04M8"; // 푸터배너
+$sIfrCode11 = "04K7"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MR" ; //신규생활정보
+$sIfrCode15 = "065c" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06ds"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dQ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eY"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eD"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ev"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:37:04";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:29:37";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"10";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:9:"community";s:7:"post_js";s:128:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:14;a:42:{s:7:"post_id";s:2:"35";s:8:"post_num";s:3:"-30";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:1:"1";s:12:"post_content";s:498:"$sCode = ""; //pv 체크
+$sIfrCode1 = "04Jj" ; // 전체기사
+$sIfrCode2 = "04Jo" ; // 포토뉴스
+$sIfrCode3 = "04It" ; // 많이본 뉴스
+$sIfrCode4 = "04J1" ; // 베스트 신문보기
+$sIfrCode5 = "04Ix" ; // 주간 핫 리포트
+$sIfrCode7 = "04JQ" ; // 요일별 웹툰
+$sIfrCode8 = "04JY" ; // 인기웹툰
+$sIfrCode9 = "04J5" ; // 베스트게임
+$sIfrCode10 = "04K3"; // 푸터배너
+$sIfrCode11 = "04J5"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04K9" ; //신규생활정보";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:30:22";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-05-24 14:30:54";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"2";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:1:"1";s:7:"post_js";s:120:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=1&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:15;a:42:{s:7:"post_id";s:2:"27";s:8:"post_num";s:3:"-23";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:29:"애니툰 자사 일부영역";s:12:"post_content";s:1181:"$sCode = "05uO"; //pv 체크
+        $sIfrCode1 = "01Ca" ; // 전체기사
+        $sIfrCode2 = "02vo" ; // 포토뉴스
+        $sIfrCode3 = "01Cc"  ; // 많이본 뉴스
+        $sIfrCode4 = "01Ci" ; // 베스트 신문보기
+        $sIfrCode5 = "02vi" ; // 주간 핫 리포트
+        $sIfrCode7 = "02vk" ; // 요일별 웹툰
+        $sIfrCode8 = "02vl" ; // 인기웹툰
+        $sIfrCode9 = "02yT" ; // 베스트게임
+        $sIfrCode10 = "02vp"; // 푸터배너
+        $sIfrCode11 = "02yT"; // 베스트웹툰 랜덤
+        $sIfrCode12 = "032y" ; //탑배너
+        $sIfrCode13 = "0320" ; //신규생활정보
+        $sIfrCode14 = "03EV" ; //베스트신문보기 배너형
+        $sIfrCode15 = "065R" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06do"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dM"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eU"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e9"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06er"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-18 14:28:59";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:28:42";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"15";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:7:"hiadone";s:7:"post_js";s:126:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=hiadone&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}}s:13:"result_object";a:16:{i:0;O:8:"stdClass":42:{s:7:"post_id";s:2:"72";s:8:"post_num";s:3:"-67";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:38:"지니어스 커뮤니티 웹툰먼저";s:12:"post_content";s:975:"$sCode = "0676"; //pv 체크
+$sIfrCode1 = "04LL" ; // 전체기사
+$sIfrCode2 = "04Lf" ; // 포토뉴스
+$sIfrCode3 = "04Ji" ; // 많이본 뉴스
+$sIfrCode4 = "04Jn" ; // 베스트 신문보기
+$sIfrCode5 = "04Jf" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kg" ; // 요일별 웹툰
+$sIfrCode8 = "04Ky" ; // 인기웹툰
+$sIfrCode9 = "04K7" ; // 베스트게임
+$sIfrCode10 = "04M8"; // 푸터배너
+$sIfrCode11 = "04K7"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MR" ; //신규생활정보
+$sIfrCode15 = "065c" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06ds"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dQ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eY"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eD"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ev"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-07-18 17:43:45";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-18 17:43:45";s:18:"post_update_mem_id";s:1:"0";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"5";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"12";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"61.82.191.161";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"community2";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community2&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:1;O:8:"stdClass":42:{s:7:"post_id";s:2:"63";s:8:"post_num";s:3:"-58";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:19:"애니툰 리타겟";s:12:"post_content";s:975:"$sCode = "05sZ"; //pv 체크
+$sIfrCode1 = "05Ei" ; // 전체기사
+$sIfrCode2 = "05Eq" ; // 포토뉴스
+$sIfrCode3 = "05Dy" ; // 많이본 뉴스
+$sIfrCode4 = "05EC" ; // 베스트 신문보기
+$sIfrCode5 = "05E4" ; // 주간 핫 리포트
+$sIfrCode7 = "05ES" ; // 요일별 웹툰
+$sIfrCode8 = "05Ea" ; // 인기웹툰
+$sIfrCode9 = "05EJ" ; // 베스트게임
+$sIfrCode10 = "05F6"; // 푸터배너
+$sIfrCode11 = "05EJ"; // 베스트웹툰 랜덤
+$sIfrCode13 = "05Ey" ; //신규생활정보
+$sIfrCode15 = "069Q" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dZ"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dA"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eI"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06dx"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ed"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 15:20:35";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:32:47";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"29";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:2:"re";s:7:"post_js";s:121:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=re&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:2;O:8:"stdClass":42:{s:7:"post_id";s:2:"62";s:8:"post_num";s:3:"-57";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:19:"애니툰 논타겟";s:12:"post_content";s:975:"$sCode = "05r7"; //pv 체크
+$sIfrCode1 = "05Ei" ; // 전체기사
+$sIfrCode2 = "05Eq" ; // 포토뉴스
+$sIfrCode3 = "05Dy" ; // 많이본 뉴스
+$sIfrCode4 = "05EC" ; // 베스트 신문보기
+$sIfrCode5 = "05E4" ; // 주간 핫 리포트
+$sIfrCode7 = "05ES" ; // 요일별 웹툰
+$sIfrCode8 = "05Ea" ; // 인기웹툰
+$sIfrCode9 = "05EJ" ; // 베스트게임
+$sIfrCode10 = "05F6"; // 푸터배너
+$sIfrCode11 = "05EJ"; // 베스트웹툰 랜덤
+$sIfrCode13 = "05Ey" ; //신규생활정보
+$sIfrCode15 = "069Q" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dZ"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dA"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eI"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06dx"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ed"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 15:19:44";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:32:38";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"12";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:3:"non";s:7:"post_js";s:122:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=non&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:3;O:8:"stdClass":42:{s:7:"post_id";s:2:"58";s:8:"post_num";s:3:"-53";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:22:"지니어스 언론사";s:12:"post_content";s:975:"$sCode = "0675"; //pv 체크
+$sIfrCode1 = "04Jj" ; // 전체기사
+$sIfrCode2 = "04Jo" ; // 포토뉴스
+$sIfrCode3 = "04It" ; // 많이본 뉴스
+$sIfrCode4 = "04J1" ; // 베스트 신문보기
+$sIfrCode5 = "04Ix" ; // 주간 핫 리포트
+$sIfrCode7 = "04JQ" ; // 요일별 웹툰
+$sIfrCode8 = "04JY" ; // 인기웹툰
+$sIfrCode9 = "04J5" ; // 베스트게임
+$sIfrCode10 = "04K3"; // 푸터배너
+$sIfrCode11 = "04J5"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04K9" ; //신규생활정보
+$sIfrCode15 = "065a" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dr"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dP"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eX"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eC"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eu"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 11:37:22";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:30:33";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"37";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"genius";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=genius&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:4;O:8:"stdClass":42:{s:7:"post_id";s:2:"57";s:8:"post_num";s:3:"-52";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:9:"애드팝";s:12:"post_content";s:975:"$sCode = "04Gd"; //pv 체크
+$sIfrCode1 = "04LZ" ; // 전체기사
+$sIfrCode2 = "04Lx" ; // 포토뉴스
+$sIfrCode3 = "04JL" ; // 많이본 뉴스
+$sIfrCode4 = "04K1" ; // 베스트 신문보기
+$sIfrCode5 = "04Ja" ; // 주간 핫 리포트
+$sIfrCode7 = "04Ku" ; // 요일별 웹툰
+$sIfrCode8 = "04LG" ; // 인기웹툰
+$sIfrCode9 = "04KL" ; // 베스트게임
+$sIfrCode10 = "04ML"; // 푸터배너
+$sIfrCode11 = "04KL"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04Me" ; //신규생활정보
+$sIfrCode15 = "066r" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06da"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dB"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eJ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06dy"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ee"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-25 11:24:09";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:07:01";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"15";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:5:"adpop";s:7:"post_js";s:124:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=adpop&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:5;O:8:"stdClass":42:{s:7:"post_id";s:2:"44";s:8:"post_num";s:3:"-39";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:31:"조세금융신문_연예지면";s:12:"post_content";s:936:"$sCode = "06ps"; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06de"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dF"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eN"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e2"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ek"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-31 17:47:36";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"6";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"tfnews";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=tfnews&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:6;O:8:"stdClass":42:{s:7:"post_id";s:2:"43";s:8:"post_num";s:3:"-38";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:29:"와이미디어 커뮤니티2";s:12:"post_content";s:936:"$sCode = "06nR"; //pv 체크
+$sIfrCode1 = "04et" ; // 전체기사
+$sIfrCode2 = "04ez" ; // 포토뉴스
+$sIfrCode3 = "04eD" ; // 많이본 뉴스
+$sIfrCode4 = "04eP" ; // 베스트 신문보기
+$sIfrCode5 = "04eM" ; // 주간 핫 리포트
+$sIfrCode7 = "04eh" ; // 요일별 웹툰
+$sIfrCode8 = "04eq" ; // 인기웹툰
+$sIfrCode9 = "04eV" ; // 베스트게임
+$sIfrCode10 = "04f5"; // 푸터배너
+$sIfrCode11 = "04eV"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fB" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dj"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dK"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eS"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e7"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ep"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:12:57";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 14:05:53";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"6";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"community3";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community3&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:7;O:8:"stdClass":42:{s:7:"post_id";s:2:"42";s:8:"post_num";s:3:"-37";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:29:"와이미디어 커뮤니티1";s:12:"post_content";s:936:"$sCode = "06nQ"; //pv 체크
+$sIfrCode1 = "04es" ; // 전체기사
+$sIfrCode2 = "04ey" ; // 포토뉴스
+$sIfrCode3 = "04eC" ; // 많이본 뉴스
+$sIfrCode4 = "04eO" ; // 베스트 신문보기
+$sIfrCode5 = "04eN" ; // 주간 핫 리포트
+$sIfrCode7 = "04eg" ; // 요일별 웹툰
+$sIfrCode8 = "04er" ; // 인기웹툰
+$sIfrCode9 = "04eU" ; // 베스트게임
+$sIfrCode10 = "04f4"; // 푸터배너
+$sIfrCode11 = "04eU"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fA" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06di"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dJ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eR"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e6"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eo"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:10:57";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 14:05:12";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"4";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"community1";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community1&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:8;O:8:"stdClass":42:{s:7:"post_id";s:2:"41";s:8:"post_num";s:3:"-36";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:18:"와이미디어앱";s:12:"post_content";s:936:"$sCode = "06mC"; //pv 체크
+$sIfrCode1 = "04LO" ; // 전체기사
+$sIfrCode2 = "04Ll" ; // 포토뉴스
+$sIfrCode3 = "04JE" ; // 많이본 뉴스
+$sIfrCode4 = "04Jt" ; // 베스트 신문보기
+$sIfrCode5 = "04JS" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kl" ; // 요일별 웹툰
+$sIfrCode8 = "04L1" ; // 인기웹툰
+$sIfrCode9 = "04KC" ; // 베스트게임
+$sIfrCode10 = "04MB"; // 푸터배너
+$sIfrCode11 = "04KC"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MU" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dh"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dI"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eQ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e5"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06en"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:09:12";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 14:03:23";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"4";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"ymidea";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=ymidea&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:9;O:8:"stdClass":42:{s:7:"post_id";s:2:"40";s:8:"post_num";s:3:"-35";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:18:"와이미디어웹";s:12:"post_content";s:936:"$sCode = "06mB"; //pv 체크
+$sIfrCode1 = "04LN" ; // 전체기사
+$sIfrCode2 = "04Lj" ; // 포토뉴스
+$sIfrCode3 = "04JC" ; // 많이본 뉴스
+$sIfrCode4 = "04Jr" ; // 베스트 신문보기
+$sIfrCode5 = "04JR" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kk" ; // 요일별 웹툰
+$sIfrCode8 = "04L0" ; // 인기웹툰
+$sIfrCode9 = "04KA" ; // 베스트게임
+$sIfrCode10 = "04MA"; // 푸터배너
+$sIfrCode11 = "04KA"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MT" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dg"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dH"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eP"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e4"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06em"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 15:07:00";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-26 13:52:51";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"4";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:9:"ymideaweb";s:7:"post_js";s:128:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=ymideaweb&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:10;O:8:"stdClass":42:{s:7:"post_id";s:2:"39";s:8:"post_num";s:3:"-34";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:15:"톱스타뉴스";s:12:"post_content";s:975:"$sCode = "06Yn"; //pv 체크
+$sIfrCode1 = "04gi" ; // 전체기사
+$sIfrCode2 = "04gm" ; // 포토뉴스
+$sIfrCode3 = "04gL" ; // 많이본 뉴스
+$sIfrCode4 = "04gS" ; // 베스트 신문보기
+$sIfrCode5 = "04gO" ; // 주간 핫 리포트
+$sIfrCode7 = "04ga" ; // 요일별 웹툰
+$sIfrCode8 = "04ge" ; // 인기웹툰
+$sIfrCode9 = "04gW" ; // 베스트게임
+$sIfrCode10 = "04gu"; // 푸터배너
+$sIfrCode11 = "04gW"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04gq" ; //신규생활정보
+$sIfrCode15 = "065f" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06dt"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dR"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eZ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06eE"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ew"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:45:15";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 19:48:20";s:18:"post_update_mem_id";s:1:"1";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"11";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:11:"topstarnews";s:7:"post_js";s:130:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=topstarnews&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:11;O:8:"stdClass":42:{s:7:"post_id";s:2:"38";s:8:"post_num";s:3:"-33";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:22:"애드팝 커뮤니티";s:12:"post_content";s:975:"$sCode = "06ko"; //pv 체크
+$sIfrCode1 = "04fx" ; // 전체기사
+$sIfrCode2 = "04g3" ; // 포토뉴스
+$sIfrCode3 = "04fH" ; // 많이본 뉴스
+$sIfrCode4 = "04fT" ; // 베스트 신문보기
+$sIfrCode5 = "04fN" ; // 주간 핫 리포트
+$sIfrCode7 = "04fl" ; // 요일별 웹툰
+$sIfrCode8 = "04fr" ; // 인기웹툰
+$sIfrCode9 = "04fZ" ; // 베스트게임
+$sIfrCode10 = "04g8"; // 푸터배너
+$sIfrCode11 = "04fZ"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04gE" ; //신규생활정보
+$sIfrCode15 = "065e" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06df"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dG"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eO"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e3"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06el"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:43:10";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-13 17:31:48";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"5";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:11:"adcommunity";s:7:"post_js";s:130:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=adcommunity&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:12;O:8:"stdClass":42:{s:7:"post_id";s:2:"37";s:8:"post_num";s:3:"-32";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:18:"이뉴스투데이";s:12:"post_content";s:502:"$sCode = "06PO"; //pv 체크
+$sIfrCode1 = "04fw" ; // 전체기사
+$sIfrCode2 = "04g2" ; // 포토뉴스
+$sIfrCode3 = "04fG" ; // 많이본 뉴스
+$sIfrCode4 = "04fS" ; // 베스트 신문보기
+$sIfrCode5 = "04fM" ; // 주간 핫 리포트
+$sIfrCode7 = "04fk" ; // 요일별 웹툰
+$sIfrCode8 = "04fq" ; // 인기웹툰
+$sIfrCode9 = "04fY" ; // 베스트게임
+$sIfrCode10 = "04gJ"; // 푸터배너
+$sIfrCode11 = "04fY"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04gD" ; //신규생활정보";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:39:43";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-09 13:45:55";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"7";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:10:"enewstoday";s:7:"post_js";s:129:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=enewstoday&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:13;O:8:"stdClass":42:{s:7:"post_id";s:2:"36";s:8:"post_num";s:3:"-31";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:25:"지니어스 커뮤니티";s:12:"post_content";s:975:"$sCode = "0676"; //pv 체크
+$sIfrCode1 = "04LL" ; // 전체기사
+$sIfrCode2 = "04Lf" ; // 포토뉴스
+$sIfrCode3 = "04Ji" ; // 많이본 뉴스
+$sIfrCode4 = "04Jn" ; // 베스트 신문보기
+$sIfrCode5 = "04Jf" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kg" ; // 요일별 웹툰
+$sIfrCode8 = "04Ky" ; // 인기웹툰
+$sIfrCode9 = "04K7" ; // 베스트게임
+$sIfrCode10 = "04M8"; // 푸터배너
+$sIfrCode11 = "04K7"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MR" ; //신규생활정보
+$sIfrCode15 = "065c" ; //인기신작
+
+// 성인웹툰
+$pageid30 = "06ds"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dQ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eY"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eD"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ev"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:37:04";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:29:37";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"10";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:9:"community";s:7:"post_js";s:128:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=community&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:14;O:8:"stdClass":42:{s:7:"post_id";s:2:"35";s:8:"post_num";s:3:"-30";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:1:"1";s:12:"post_content";s:498:"$sCode = ""; //pv 체크
+$sIfrCode1 = "04Jj" ; // 전체기사
+$sIfrCode2 = "04Jo" ; // 포토뉴스
+$sIfrCode3 = "04It" ; // 많이본 뉴스
+$sIfrCode4 = "04J1" ; // 베스트 신문보기
+$sIfrCode5 = "04Ix" ; // 주간 핫 리포트
+$sIfrCode7 = "04JQ" ; // 요일별 웹툰
+$sIfrCode8 = "04JY" ; // 인기웹툰
+$sIfrCode9 = "04J5" ; // 베스트게임
+$sIfrCode10 = "04K3"; // 푸터배너
+$sIfrCode11 = "04J5"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04K9" ; //신규생활정보";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-24 14:30:22";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-05-24 14:30:54";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"2";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:1:"1";s:7:"post_js";s:120:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=1&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}i:15;O:8:"stdClass":42:{s:7:"post_id";s:2:"27";s:8:"post_num";s:3:"-23";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"5";s:10:"post_title";s:29:"애니툰 자사 일부영역";s:12:"post_content";s:1181:"$sCode = "05uO"; //pv 체크
+        $sIfrCode1 = "01Ca" ; // 전체기사
+        $sIfrCode2 = "02vo" ; // 포토뉴스
+        $sIfrCode3 = "01Cc"  ; // 많이본 뉴스
+        $sIfrCode4 = "01Ci" ; // 베스트 신문보기
+        $sIfrCode5 = "02vi" ; // 주간 핫 리포트
+        $sIfrCode7 = "02vk" ; // 요일별 웹툰
+        $sIfrCode8 = "02vl" ; // 인기웹툰
+        $sIfrCode9 = "02yT" ; // 베스트게임
+        $sIfrCode10 = "02vp"; // 푸터배너
+        $sIfrCode11 = "02yT"; // 베스트웹툰 랜덤
+        $sIfrCode12 = "032y" ; //탑배너
+        $sIfrCode13 = "0320" ; //신규생활정보
+        $sIfrCode14 = "03EV" ; //베스트신문보기 배너형
+        $sIfrCode15 = "065R" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06do"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dM"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eU"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e9"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06er"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-18 14:28:59";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-07 18:28:42";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"15";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:7:"hiadone";s:7:"post_js";s:126:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=hiadone&brd_key=eco'></script>";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_nickname";s:9:"구현지";s:8:"mem_icon";s:0:"";s:9:"mem_photo";s:0:"";s:9:"mem_point";s:2:"40";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:16;s:8:"row_data";N;}

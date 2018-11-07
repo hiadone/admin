@@ -1,0 +1,1255 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:20:{i:0;a:20:{s:6:"phi_id";s:3:"348";s:7:"post_id";s:2:"22";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1061:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR"	;// 전체기사
+$sIfrCode2 = "03CU"	;// 포토뉴스
+$sIfrCode3 = "03CM"   ;// 많이본 뉴스
+$sIfrCode4 = "03CO"	;// 베스트 신문보기
+$sIfrCode5 = "03CN"	;// 주간 핫 리포트
+$sIfrCode7 = "03CP"	;// 요일별 웹툰
+$sIfrCode8 = "03CQ"	;// 인기웹툰
+$sIfrCode9 = "03CT"	;// 베스트TV
+$sIfrCode10 = "03CV"	;// 푸터배너
+$sIfrCode11 = "03CT"	;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y"  ;//탑배너
+$sIfrCode13 = "03CW"  ;//신규생활정보
+$sIfrCode14 = "03Ff"  ;//베스트신문보기 배너형
+$sIfrCode15 = "065U"  ;//인기신작
+
+
+// 성인웹툰
+$pageid30 = "06dn"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dL"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eT"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e8"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eq"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:37:49";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-18 13:57:27";s:8:"post_hit";s:2:"15";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:1;a:20:{s:6:"phi_id";s:3:"347";s:7:"post_id";s:2:"74";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1054:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR" ;// 전체기사
+$sIfrCode2 = "02pb" ;// 포토뉴스
+$sIfrCode3 = "03CM" ;// 많이본 뉴스
+$sIfrCode4 = "03CO" ;// 베스트 신문보기
+$sIfrCode5 = "02pW" ;// 주간 핫 리포트
+$sIfrCode7 = "02pY" ;// 요일별 웹툰
+$sIfrCode8 = "02pZ" ;// 인기웹툰
+$sIfrCode9 = "02yX" ;// 베스트TV
+ $sIfrCode10 = "02uF" ;// 푸터배너
+$sIfrCode11 = "02yX" ;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y" ;//탑배너
+$sIfrCode13 = "03CW" ;//신규생활정보
+$sIfrCode14 = "03Ff" ;//베스트신문보기 배너형
+$sIfrCode15 = "065T" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dd"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dE"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eM"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e1"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ej"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:34:35";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:31:14";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:2;a:20:{s:6:"phi_id";s:3:"346";s:7:"post_id";s:2:"74";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1054:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR" ;// 전체기사
+$sIfrCode2 = "02pb" ;// 포토뉴스
+$sIfrCode3 = "03CM" ;// 많이본 뉴스
+$sIfrCode4 = "03CO" ;// 베스트 신문보기
+$sIfrCode5 = "02pW" ;// 주간 핫 리포트
+$sIfrCode7 = "02pY" ;// 요일별 웹툰
+$sIfrCode8 = "02pZ" ;// 인기웹툰
+$sIfrCode9 = "02yX" ;// 베스트TV
+ $sIfrCode10 = "02uF" ;// 푸터배너
+$sIfrCode11 = "02yX" ;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y" ;//탑배너
+$sIfrCode13 = "03CW" ;//신규생활정보
+$sIfrCode14 = "03Ff" ;//베스트신문보기 배너형
+$sIfrCode15 = "065T" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dd"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dE"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eM"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e1"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ej"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:34:35";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:31:14";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:3;a:20:{s:6:"phi_id";s:3:"345";s:7:"post_id";s:2:"74";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1024:"$sIfrCode1 = "03CR" ;// 전체기사
+$sIfrCode2 = "02pb" ;// 포토뉴스
+$sIfrCode3 = "03CM" ;// 많이본 뉴스
+$sIfrCode4 = "03CO" ;// 베스트 신문보기
+$sIfrCode5 = "02pW" ;// 주간 핫 리포트
+$sIfrCode7 = "02pY" ;// 요일별 웹툰
+$sIfrCode8 = "02pZ" ;// 인기웹툰
+$sIfrCode9 = "02yX" ;// 베스트TV
+ $sIfrCode10 = "02uF" ;// 푸터배너
+$sIfrCode11 = "02yX" ;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y" ;//탑배너
+$sIfrCode13 = "03CW" ;//신규생활정보
+$sIfrCode14 = "03Ff" ;//베스트신문보기 배너형
+$sIfrCode15 = "065T" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dd"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dE"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eM"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e1"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ej"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:31:14";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:31:14";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:4;a:20:{s:6:"phi_id";s:3:"344";s:7:"post_id";s:2:"22";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1061:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR"	;// 전체기사
+$sIfrCode2 = "03CU"	;// 포토뉴스
+$sIfrCode3 = "03CM"   ;// 많이본 뉴스
+$sIfrCode4 = "03CO"	;// 베스트 신문보기
+$sIfrCode5 = "03CN"	;// 주간 핫 리포트
+$sIfrCode7 = "03CP"	;// 요일별 웹툰
+$sIfrCode8 = "03CQ"	;// 인기웹툰
+$sIfrCode9 = "03CT"	;// 베스트TV
+$sIfrCode10 = "03CV"	;// 푸터배너
+$sIfrCode11 = "03CT"	;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y"  ;//탑배너
+$sIfrCode13 = "03CW"  ;//신규생활정보
+$sIfrCode14 = "03Ff"  ;//베스트신문보기 배너형
+$sIfrCode15 = "065U"  ;//인기신작
+
+
+// 성인웹툰
+$pageid30 = "06dn"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dL"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eT"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e8"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eq"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:31:09";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-18 13:57:27";s:8:"post_hit";s:2:"15";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:5;a:20:{s:6:"phi_id";s:3:"343";s:7:"post_id";s:2:"73";s:6:"brd_id";s:1:"2";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:2924:"$sCode = "03N6"; // 트래픽 체크
+ $pageid1 = "04KO"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Ke"; // 홈_상단 배너2_4슬롯_302X200
+ $pageid3 = "04LS"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L2"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kr"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LA"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04Mo"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LS"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lb"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lm"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Lp"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M2"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M3"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04MG"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MN"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04LS"; // 요일별_월요일_웹툰_9슬롯_214X200adpop
+ $weekPageId[2] = "04Lb"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lm"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Lp"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M2"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M3"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04MG"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Nq"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O9"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OA"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OK"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OP"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Mr"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N5"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NA"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NI"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NK"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NW"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04TA"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04MZ"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mh"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Mk"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:29:19";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:29:19";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:6;a:20:{s:6:"phi_id";s:3:"342";s:7:"post_id";s:2:"44";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:936:"$sCode = "06ps"; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06de"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dF"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eN"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e2"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ek"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:47:36";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:7;a:20:{s:6:"phi_id";s:3:"341";s:7:"post_id";s:2:"54";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:2918:"$sCode = "06pu"; // 트래픽 체크
+$pageid1 = "04KV"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Kf"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L4"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kv"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LB"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04LI"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MO"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Ns"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O7"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OB"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OM"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OQ"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Ms"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N3"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NB"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NG"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NL"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NX"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04Ne"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04Mb"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mp"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Ml"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:46:34";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:14:09";s:8:"post_hit";s:1:"8";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:8;a:20:{s:6:"phi_id";s:3:"340";s:7:"post_id";s:2:"44";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:502:"$sCode = "06ps"; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:16:35";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:9;a:20:{s:6:"phi_id";s:3:"339";s:7:"post_id";s:2:"54";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:2914:"$sCode = ""; // 트래픽 체크
+$pageid1 = "04KV"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Kf"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L4"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kv"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LB"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04LI"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MO"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Ns"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O7"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OB"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OM"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OQ"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Ms"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N3"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NB"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NG"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NL"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NX"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04Ne"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04Mb"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mp"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Ml"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:14:22";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:14:09";s:8:"post_hit";s:1:"8";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:10;a:20:{s:6:"phi_id";s:3:"338";s:7:"post_id";s:2:"54";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:2914:"$sCode = ""; // 트래픽 체크
+$pageid1 = "04KV"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Kf"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L4"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kv"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LB"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04LI"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MO"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Ns"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O7"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OB"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OM"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OQ"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Ms"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N3"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NB"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NG"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NL"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NX"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04Ne"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04Mb"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mp"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Ml"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:14:21";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:14:09";s:8:"post_hit";s:1:"8";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:11;a:20:{s:6:"phi_id";s:3:"337";s:7:"post_id";s:2:"44";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:498:"$sCode = ""; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:13:54";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:12;a:20:{s:6:"phi_id";s:3:"336";s:7:"post_id";s:2:"52";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티1";s:11:"phi_content";s:2918:"$sCode = "06nS"; // 트래픽 체크
+$pageid1 = "04ht"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04i5"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04iD"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04i6"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04iL"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04iS"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04jh"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04pH"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04ka"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04pe"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04pv"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04q6"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04ks"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04l4"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04lK"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04lb"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04lt"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04oe"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04ov"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04js"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04kD"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04kK"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:14:11";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 16:54:57";s:8:"post_hit";s:1:"5";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:13;a:20:{s:6:"phi_id";s:3:"335";s:7:"post_id";s:2:"52";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티1";s:11:"phi_content";s:2918:"$sCode = "06nS"; // 트래픽 체크
+$pageid1 = "04ht"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04i5"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04iD"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04i6"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04iL"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04iS"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04jh"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04pH"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04ka"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04pe"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04pv"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04q6"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04ks"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04l4"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04lK"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04lb"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04lt"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04oe"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04ov"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04js"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04kD"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04kK"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:14:10";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 16:54:57";s:8:"post_hit";s:1:"5";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:14;a:20:{s:6:"phi_id";s:3:"334";s:7:"post_id";s:2:"53";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티3";s:11:"phi_content";s:2918:"$sCode = "06nT"; // 트래픽 체크
+$pageid1 = "04N4"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04NR"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04O1"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Nl"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04OT"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04Of"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04PH"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Pe"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Pv"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04Q6"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04QL"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04Qg"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04Sb"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04PH"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Pe"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Pv"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04Q6"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04QL"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04Qg"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04QZ"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04RG"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04Rt"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04SW"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04T2"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Qt"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04RF"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04RS"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04Rj"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04S2"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04SD"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04TC"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04TS"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04TZ"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04St"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:13:52";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:02:12";s:8:"post_hit";s:1:"9";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:15;a:20:{s:6:"phi_id";s:3:"333";s:7:"post_id";s:2:"43";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티2";s:11:"phi_content";s:936:"$sCode = "06nR"; //pv 체크
+$sIfrCode1 = "04et" ; // 전체기사
+$sIfrCode2 = "04ez" ; // 포토뉴스
+$sIfrCode3 = "04eD" ; // 많이본 뉴스
+$sIfrCode4 = "04eP" ; // 베스트 신문보기
+$sIfrCode5 = "04eM" ; // 주간 핫 리포트
+$sIfrCode7 = "04eh" ; // 요일별 웹툰
+$sIfrCode8 = "04eq" ; // 인기웹툰
+$sIfrCode9 = "04eV" ; // 베스트게임
+$sIfrCode10 = "04f5"; // 푸터배너
+$sIfrCode11 = "04eV"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fB" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dj"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dK"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eS"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e7"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ep"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:05:53";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:12:57";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:16;a:20:{s:6:"phi_id";s:3:"332";s:7:"post_id";s:2:"42";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티1";s:11:"phi_content";s:936:"$sCode = "06nQ"; //pv 체크
+$sIfrCode1 = "04es" ; // 전체기사
+$sIfrCode2 = "04ey" ; // 포토뉴스
+$sIfrCode3 = "04eC" ; // 많이본 뉴스
+$sIfrCode4 = "04eO" ; // 베스트 신문보기
+$sIfrCode5 = "04eN" ; // 주간 핫 리포트
+$sIfrCode7 = "04eg" ; // 요일별 웹툰
+$sIfrCode8 = "04er" ; // 인기웹툰
+$sIfrCode9 = "04eU" ; // 베스트게임
+$sIfrCode10 = "04f4"; // 푸터배너
+$sIfrCode11 = "04eU"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fA" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06di"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dJ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eR"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e6"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eo"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:05:12";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:10:57";s:8:"post_hit";s:1:"4";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:17;a:20:{s:6:"phi_id";s:3:"331";s:7:"post_id";s:2:"41";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:18:"와이미디어앱";s:11:"phi_content";s:936:"$sCode = "06mC"; //pv 체크
+$sIfrCode1 = "04LO" ; // 전체기사
+$sIfrCode2 = "04Ll" ; // 포토뉴스
+$sIfrCode3 = "04JE" ; // 많이본 뉴스
+$sIfrCode4 = "04Jt" ; // 베스트 신문보기
+$sIfrCode5 = "04JS" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kl" ; // 요일별 웹툰
+$sIfrCode8 = "04L1" ; // 인기웹툰
+$sIfrCode9 = "04KC" ; // 베스트게임
+$sIfrCode10 = "04MB"; // 푸터배너
+$sIfrCode11 = "04KC"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MU" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dh"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dI"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eQ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e5"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06en"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:03:23";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:09:12";s:8:"post_hit";s:1:"4";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:18;a:20:{s:6:"phi_id";s:3:"330";s:7:"post_id";s:2:"40";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:18:"와이미디어웹";s:11:"phi_content";s:936:"$sCode = "06mB"; //pv 체크
+$sIfrCode1 = "04LN" ; // 전체기사
+$sIfrCode2 = "04Lj" ; // 포토뉴스
+$sIfrCode3 = "04JC" ; // 많이본 뉴스
+$sIfrCode4 = "04Jr" ; // 베스트 신문보기
+$sIfrCode5 = "04JR" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kk" ; // 요일별 웹툰
+$sIfrCode8 = "04L0" ; // 인기웹툰
+$sIfrCode9 = "04KA" ; // 베스트게임
+$sIfrCode10 = "04MA"; // 푸터배너
+$sIfrCode11 = "04KA"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MT" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dg"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dH"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eP"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e4"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06em"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 13:52:51";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:07:00";s:8:"post_hit";s:1:"4";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:19;a:20:{s:6:"phi_id";s:3:"329";s:7:"post_id";s:2:"43";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티2";s:11:"phi_content";s:502:"$sCode = "06nR"; //pv 체크
+$sIfrCode1 = "04et" ; // 전체기사
+$sIfrCode2 = "04ez" ; // 포토뉴스
+$sIfrCode3 = "04eD" ; // 많이본 뉴스
+$sIfrCode4 = "04eP" ; // 베스트 신문보기
+$sIfrCode5 = "04eM" ; // 주간 핫 리포트
+$sIfrCode7 = "04eh" ; // 요일별 웹툰
+$sIfrCode8 = "04eq" ; // 인기웹툰
+$sIfrCode9 = "04eV" ; // 베스트게임
+$sIfrCode10 = "04f5"; // 푸터배너
+$sIfrCode11 = "04eV"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fB" ; //신규생활정보";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 13:50:50";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:12:57";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}}s:13:"result_object";a:20:{i:0;O:8:"stdClass":20:{s:6:"phi_id";s:3:"348";s:7:"post_id";s:2:"22";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1061:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR"	;// 전체기사
+$sIfrCode2 = "03CU"	;// 포토뉴스
+$sIfrCode3 = "03CM"   ;// 많이본 뉴스
+$sIfrCode4 = "03CO"	;// 베스트 신문보기
+$sIfrCode5 = "03CN"	;// 주간 핫 리포트
+$sIfrCode7 = "03CP"	;// 요일별 웹툰
+$sIfrCode8 = "03CQ"	;// 인기웹툰
+$sIfrCode9 = "03CT"	;// 베스트TV
+$sIfrCode10 = "03CV"	;// 푸터배너
+$sIfrCode11 = "03CT"	;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y"  ;//탑배너
+$sIfrCode13 = "03CW"  ;//신규생활정보
+$sIfrCode14 = "03Ff"  ;//베스트신문보기 배너형
+$sIfrCode15 = "065U"  ;//인기신작
+
+
+// 성인웹툰
+$pageid30 = "06dn"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dL"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eT"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e8"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eq"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:37:49";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-18 13:57:27";s:8:"post_hit";s:2:"15";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:1;O:8:"stdClass":20:{s:6:"phi_id";s:3:"347";s:7:"post_id";s:2:"74";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1054:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR" ;// 전체기사
+$sIfrCode2 = "02pb" ;// 포토뉴스
+$sIfrCode3 = "03CM" ;// 많이본 뉴스
+$sIfrCode4 = "03CO" ;// 베스트 신문보기
+$sIfrCode5 = "02pW" ;// 주간 핫 리포트
+$sIfrCode7 = "02pY" ;// 요일별 웹툰
+$sIfrCode8 = "02pZ" ;// 인기웹툰
+$sIfrCode9 = "02yX" ;// 베스트TV
+ $sIfrCode10 = "02uF" ;// 푸터배너
+$sIfrCode11 = "02yX" ;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y" ;//탑배너
+$sIfrCode13 = "03CW" ;//신규생활정보
+$sIfrCode14 = "03Ff" ;//베스트신문보기 배너형
+$sIfrCode15 = "065T" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dd"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dE"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eM"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e1"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ej"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:34:35";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:31:14";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:2;O:8:"stdClass":20:{s:6:"phi_id";s:3:"346";s:7:"post_id";s:2:"74";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1054:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR" ;// 전체기사
+$sIfrCode2 = "02pb" ;// 포토뉴스
+$sIfrCode3 = "03CM" ;// 많이본 뉴스
+$sIfrCode4 = "03CO" ;// 베스트 신문보기
+$sIfrCode5 = "02pW" ;// 주간 핫 리포트
+$sIfrCode7 = "02pY" ;// 요일별 웹툰
+$sIfrCode8 = "02pZ" ;// 인기웹툰
+$sIfrCode9 = "02yX" ;// 베스트TV
+ $sIfrCode10 = "02uF" ;// 푸터배너
+$sIfrCode11 = "02yX" ;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y" ;//탑배너
+$sIfrCode13 = "03CW" ;//신규생활정보
+$sIfrCode14 = "03Ff" ;//베스트신문보기 배너형
+$sIfrCode15 = "065T" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dd"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dE"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eM"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e1"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ej"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:34:35";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:31:14";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:3;O:8:"stdClass":20:{s:6:"phi_id";s:3:"345";s:7:"post_id";s:2:"74";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1024:"$sIfrCode1 = "03CR" ;// 전체기사
+$sIfrCode2 = "02pb" ;// 포토뉴스
+$sIfrCode3 = "03CM" ;// 많이본 뉴스
+$sIfrCode4 = "03CO" ;// 베스트 신문보기
+$sIfrCode5 = "02pW" ;// 주간 핫 리포트
+$sIfrCode7 = "02pY" ;// 요일별 웹툰
+$sIfrCode8 = "02pZ" ;// 인기웹툰
+$sIfrCode9 = "02yX" ;// 베스트TV
+ $sIfrCode10 = "02uF" ;// 푸터배너
+$sIfrCode11 = "02yX" ;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y" ;//탑배너
+$sIfrCode13 = "03CW" ;//신규생활정보
+$sIfrCode14 = "03Ff" ;//베스트신문보기 배너형
+$sIfrCode15 = "065T" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dd"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dE"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eM"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e1"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ej"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:31:14";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:31:14";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:4;O:8:"stdClass":20:{s:6:"phi_id";s:3:"344";s:7:"post_id";s:2:"22";s:6:"brd_id";s:1:"6";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:1061:"$sCode = "03Fg" ;//pv 체크
+$sIfrCode1 = "03CR"	;// 전체기사
+$sIfrCode2 = "03CU"	;// 포토뉴스
+$sIfrCode3 = "03CM"   ;// 많이본 뉴스
+$sIfrCode4 = "03CO"	;// 베스트 신문보기
+$sIfrCode5 = "03CN"	;// 주간 핫 리포트
+$sIfrCode7 = "03CP"	;// 요일별 웹툰
+$sIfrCode8 = "03CQ"	;// 인기웹툰
+$sIfrCode9 = "03CT"	;// 베스트TV
+$sIfrCode10 = "03CV"	;// 푸터배너
+$sIfrCode11 = "03CT"	;// 베스트웹툰 랜덤
+$sIfrCode12 = "032y"  ;//탑배너
+$sIfrCode13 = "03CW"  ;//신규생활정보
+$sIfrCode14 = "03Ff"  ;//베스트신문보기 배너형
+$sIfrCode15 = "065U"  ;//인기신작
+
+
+// 성인웹툰
+$pageid30 = "06dn"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dL"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eT"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06e8"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eq"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:31:09";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-18 13:57:27";s:8:"post_hit";s:2:"15";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:5;O:8:"stdClass":20:{s:6:"phi_id";s:3:"343";s:7:"post_id";s:2:"73";s:6:"brd_id";s:1:"2";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:12:"아주경제";s:11:"phi_content";s:2924:"$sCode = "03N6"; // 트래픽 체크
+ $pageid1 = "04KO"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Ke"; // 홈_상단 배너2_4슬롯_302X200
+ $pageid3 = "04LS"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L2"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kr"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LA"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04Mo"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LS"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lb"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lm"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Lp"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M2"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M3"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04MG"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MN"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04LS"; // 요일별_월요일_웹툰_9슬롯_214X200adpop
+ $weekPageId[2] = "04Lb"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lm"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Lp"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M2"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M3"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04MG"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Nq"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O9"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OA"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OK"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OP"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Mr"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N5"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NA"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NI"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NK"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NW"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04TA"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04MZ"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mh"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Mk"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-08-10 18:29:19";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-08-10 18:29:19";s:8:"post_hit";s:1:"2";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:6;O:8:"stdClass":20:{s:6:"phi_id";s:3:"342";s:7:"post_id";s:2:"44";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:936:"$sCode = "06ps"; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06de"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dF"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eN"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e2"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ek"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:47:36";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:7;O:8:"stdClass":20:{s:6:"phi_id";s:3:"341";s:7:"post_id";s:2:"54";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:2918:"$sCode = "06pu"; // 트래픽 체크
+$pageid1 = "04KV"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Kf"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L4"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kv"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LB"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04LI"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MO"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Ns"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O7"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OB"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OM"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OQ"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Ms"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N3"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NB"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NG"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NL"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NX"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04Ne"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04Mb"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mp"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Ml"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:46:34";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:14:09";s:8:"post_hit";s:1:"8";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:8;O:8:"stdClass":20:{s:6:"phi_id";s:3:"340";s:7:"post_id";s:2:"44";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:502:"$sCode = "06ps"; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:16:35";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:9;O:8:"stdClass":20:{s:6:"phi_id";s:3:"339";s:7:"post_id";s:2:"54";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:2914:"$sCode = ""; // 트래픽 체크
+$pageid1 = "04KV"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Kf"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L4"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kv"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LB"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04LI"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MO"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Ns"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O7"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OB"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OM"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OQ"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Ms"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N3"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NB"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NG"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NL"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NX"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04Ne"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04Mb"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mp"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Ml"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:14:22";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:14:09";s:8:"post_hit";s:1:"8";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:10;O:8:"stdClass":20:{s:6:"phi_id";s:3:"338";s:7:"post_id";s:2:"54";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:2914:"$sCode = ""; // 트래픽 체크
+$pageid1 = "04KV"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04Kf"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04L4"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Kv"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04LB"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04LI"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04LU"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04MO"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04Lc"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Lk"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Ls"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04M1"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04M4"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04ME"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04Ns"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04O7"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04OB"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04OM"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04OQ"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Ms"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04N3"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04NB"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04NG"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04NL"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04NX"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04Ne"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04Mb"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04Mp"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04Ml"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:14:21";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:14:09";s:8:"post_hit";s:1:"8";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:11;O:8:"stdClass":20:{s:6:"phi_id";s:3:"337";s:7:"post_id";s:2:"44";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:31:"조세금융신문_연예지면";s:11:"phi_content";s:498:"$sCode = ""; //pv 체크
+$sIfrCode1 = "04Jm" ; // 전체기사
+$sIfrCode2 = "04Ju" ; // 포토뉴스
+$sIfrCode3 = "04Iw" ; // 많이본 뉴스
+$sIfrCode4 = "04J4" ; // 베스트 신문보기
+$sIfrCode5 = "04J0" ; // 주간 핫 리포트
+$sIfrCode7 = "04JN" ; // 요일별 웹툰
+$sIfrCode8 = "04Je" ; // 인기웹툰
+$sIfrCode9 = "04J8" ; // 베스트게임
+$sIfrCode10 = "04K6"; // 푸터배너
+$sIfrCode11 = "04J8"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04KG" ; //신규생활정보";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-31 17:13:54";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:14:45";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:12;O:8:"stdClass":20:{s:6:"phi_id";s:3:"336";s:7:"post_id";s:2:"52";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티1";s:11:"phi_content";s:2918:"$sCode = "06nS"; // 트래픽 체크
+$pageid1 = "04ht"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04i5"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04iD"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04i6"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04iL"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04iS"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04jh"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04pH"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04ka"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04pe"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04pv"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04q6"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04ks"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04l4"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04lK"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04lb"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04lt"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04oe"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04ov"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04js"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04kD"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04kK"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:14:11";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 16:54:57";s:8:"post_hit";s:1:"5";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:13;O:8:"stdClass":20:{s:6:"phi_id";s:3:"335";s:7:"post_id";s:2:"52";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티1";s:11:"phi_content";s:2918:"$sCode = "06nS"; // 트래픽 체크
+$pageid1 = "04ht"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04i5"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04iD"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04i6"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04iL"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04iS"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04jh"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04if"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04io"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04j1"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04jD"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04jN"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04jU"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04jb"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04pH"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04ka"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04pe"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04pv"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04q6"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04ks"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04l4"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04lK"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04lb"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04lt"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04oe"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04ov"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04js"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04kD"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04kK"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:14:10";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 16:54:57";s:8:"post_hit";s:1:"5";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:14;O:8:"stdClass":20:{s:6:"phi_id";s:3:"334";s:7:"post_id";s:2:"53";s:6:"brd_id";s:1:"3";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티3";s:11:"phi_content";s:2918:"$sCode = "06nT"; // 트래픽 체크
+$pageid1 = "04N4"; // 홈_상단_배너1_5슬롯_670X312
+ $pageid2 = "04NR"; // 홈_상단 배너2_5슬롯_302X200
+ $pageid3 = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid4 = "03xE"; // 홈_배너_1_360X150
+ $pageid5 = "04O1"; // 홈_완결웹툰_6슬롯_328X200
+ $pageid6 = "03xP"; // 홈_배너_2_360X150
+ $pageid7 = "04Nl"; // 홈_성인웹툰_6슬롯_328X200
+ $pageid8 = "04OT"; // 홈_주간 베스트_4슬롯_302X200
+ $pageid9 = "04Of"; // 홈_하단배너_3_670X400
+
+ // 요일별
+$pageid10 = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $pageid11 = "04PH"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $pageid12 = "04Pe"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $pageid13 = "04Pv"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $pageid14 = "04Q6"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $pageid15 = "04QL"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $pageid16 = "04Qg"; // 요일별_일요일_웹툰_9슬롯_214X200
+ $pageid17 = "04Sb"; // 요일별_하단배너_670X400
+
+ //해당 요일에 대한 키값을 배열 변수에 저장
+$weekPageId[1] = "04Oy"; // 요일별_월요일_웹툰_9슬롯_214X200
+ $weekPageId[2] = "04PH"; // 요일별_화요일_웹툰_9슬롯_214X200
+ $weekPageId[3] = "04Pe"; // 요일별_수요일_웹툰_9슬롯_214X200
+ $weekPageId[4] = "04Pv"; // 요일별_목요일_웹툰_9슬롯_214X200
+ $weekPageId[5] = "04Q6"; // 요일별_금요일_웹툰_9슬롯_214X200
+ $weekPageId[6] = "04QL"; // 요일별_토요일_웹툰_9슬롯_214X200
+ $weekPageId[0] = "04Qg"; // 요일별_일요일_웹툰_9슬롯_214X200
+
+ // 성인
+$pageid18 = "04QZ"; // 성인_투믹스 독점작_6슬롯_328X200
+ $pageid19 = "04RG"; // PD 강력추천작_302X200
+ $pageid20 = "048Z"; // 성인_배너_1_360X15
+ $pageid21 = "04Rt"; // 정주행 추천작_9슬롯_214X200
+ $pageid22 = "048l"; // 성인_배너_2_360X150
+ $pageid23 = "04SW"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid24 = "04T2"; // 성인_하단배너_670X400
+
+ // 장르별
+$pageid25 = "04Qt"; // 장르별_로맨스_웹툰_9슬롯_214X200
+ $pageid26 = "04RF"; // 장르별_액션_웹툰_9슬롯_214X200
+ $pageid27 = "048B"; // 장르별_배너_1_360X150
+ $pageid28 = "04RS"; // 장르별_스포츠_웹툰_9슬롯_214X200
+ $pageid29 = "04Rj"; // 장르별_드라마_웹툰_9슬롯_214X200
+ $pageid30 = "048N"; // 장르별_배너_2_360X150
+ $pageid31 = "04S2"; // 장르별_무협/판타지_웹툰_9슬롯_214X200
+ $pageid32 = "04SD"; // 장르별_코믹_웹툰_9슬롯_214X200
+ $pageid33 = "04TC"; // 장르별_하단배너_670X400
+
+ // 주간 베스트
+$pageid34 = "04TS"; // 완결_완결웹툰_30슬롯_328X200
+ $pageid35 = "047q"; // 완결_배너_360X150
+ $pageid36 = "04TZ"; // 완결_완결웹툰_30슬롯2_328X200
+ $pageid37 = "04St"; // 완결_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:13:52";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 17:02:12";s:8:"post_hit";s:1:"9";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:15;O:8:"stdClass":20:{s:6:"phi_id";s:3:"333";s:7:"post_id";s:2:"43";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티2";s:11:"phi_content";s:936:"$sCode = "06nR"; //pv 체크
+$sIfrCode1 = "04et" ; // 전체기사
+$sIfrCode2 = "04ez" ; // 포토뉴스
+$sIfrCode3 = "04eD" ; // 많이본 뉴스
+$sIfrCode4 = "04eP" ; // 베스트 신문보기
+$sIfrCode5 = "04eM" ; // 주간 핫 리포트
+$sIfrCode7 = "04eh" ; // 요일별 웹툰
+$sIfrCode8 = "04eq" ; // 인기웹툰
+$sIfrCode9 = "04eV" ; // 베스트게임
+$sIfrCode10 = "04f5"; // 푸터배너
+$sIfrCode11 = "04eV"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fB" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dj"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dK"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eS"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e7"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06ep"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:05:53";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:12:57";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:16;O:8:"stdClass":20:{s:6:"phi_id";s:3:"332";s:7:"post_id";s:2:"42";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티1";s:11:"phi_content";s:936:"$sCode = "06nQ"; //pv 체크
+$sIfrCode1 = "04es" ; // 전체기사
+$sIfrCode2 = "04ey" ; // 포토뉴스
+$sIfrCode3 = "04eC" ; // 많이본 뉴스
+$sIfrCode4 = "04eO" ; // 베스트 신문보기
+$sIfrCode5 = "04eN" ; // 주간 핫 리포트
+$sIfrCode7 = "04eg" ; // 요일별 웹툰
+$sIfrCode8 = "04er" ; // 인기웹툰
+$sIfrCode9 = "04eU" ; // 베스트게임
+$sIfrCode10 = "04f4"; // 푸터배너
+$sIfrCode11 = "04eU"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fA" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06di"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dJ"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eR"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e6"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06eo"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:05:12";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:10:57";s:8:"post_hit";s:1:"4";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:17;O:8:"stdClass":20:{s:6:"phi_id";s:3:"331";s:7:"post_id";s:2:"41";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:18:"와이미디어앱";s:11:"phi_content";s:936:"$sCode = "06mC"; //pv 체크
+$sIfrCode1 = "04LO" ; // 전체기사
+$sIfrCode2 = "04Ll" ; // 포토뉴스
+$sIfrCode3 = "04JE" ; // 많이본 뉴스
+$sIfrCode4 = "04Jt" ; // 베스트 신문보기
+$sIfrCode5 = "04JS" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kl" ; // 요일별 웹툰
+$sIfrCode8 = "04L1" ; // 인기웹툰
+$sIfrCode9 = "04KC" ; // 베스트게임
+$sIfrCode10 = "04MB"; // 푸터배너
+$sIfrCode11 = "04KC"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MU" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dh"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dI"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eQ"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e5"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06en"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 14:03:23";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:09:12";s:8:"post_hit";s:1:"4";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:18;O:8:"stdClass":20:{s:6:"phi_id";s:3:"330";s:7:"post_id";s:2:"40";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:18:"와이미디어웹";s:11:"phi_content";s:936:"$sCode = "06mB"; //pv 체크
+$sIfrCode1 = "04LN" ; // 전체기사
+$sIfrCode2 = "04Lj" ; // 포토뉴스
+$sIfrCode3 = "04JC" ; // 많이본 뉴스
+$sIfrCode4 = "04Jr" ; // 베스트 신문보기
+$sIfrCode5 = "04JR" ; // 주간 핫 리포트
+$sIfrCode7 = "04Kk" ; // 요일별 웹툰
+$sIfrCode8 = "04L0" ; // 인기웹툰
+$sIfrCode9 = "04KA" ; // 베스트게임
+$sIfrCode10 = "04MA"; // 푸터배너
+$sIfrCode11 = "04KA"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04MT" ; //신규생활정보
+
+// 성인웹툰
+$pageid30 = "06dg"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dH"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eP"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ey"; // 성인_배너_2_360X150
+ $pageid35 = "06e4"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06em"; // 성인_하단배너_670X400";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 13:52:51";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:07:00";s:8:"post_hit";s:1:"4";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}i:19;O:8:"stdClass":20:{s:6:"phi_id";s:3:"329";s:7:"post_id";s:2:"43";s:6:"brd_id";s:1:"5";s:6:"mem_id";s:1:"3";s:9:"phi_title";s:29:"와이미디어 커뮤니티2";s:11:"phi_content";s:502:"$sCode = "06nR"; //pv 체크
+$sIfrCode1 = "04et" ; // 전체기사
+$sIfrCode2 = "04ez" ; // 포토뉴스
+$sIfrCode3 = "04eD" ; // 많이본 뉴스
+$sIfrCode4 = "04eP" ; // 베스트 신문보기
+$sIfrCode5 = "04eM" ; // 주간 핫 리포트
+$sIfrCode7 = "04eh" ; // 요일별 웹툰
+$sIfrCode8 = "04eq" ; // 인기웹툰
+$sIfrCode9 = "04eV" ; // 베스트게임
+$sIfrCode10 = "04f5"; // 푸터배너
+$sIfrCode11 = "04eV"; // 베스트웹툰 랜덤
+$sIfrCode13 = "04fB" ; //신규생활정보";s:21:"phi_content_html_type";s:1:"0";s:6:"phi_ip";s:13:"61.82.191.161";s:12:"phi_datetime";s:19:"2017-07-26 13:50:50";s:11:"post_mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_nickname";s:9:"구현지";s:13:"post_datetime";s:19:"2017-05-24 15:12:57";s:8:"post_hit";s:1:"6";s:11:"post_secret";s:1:"0";s:10:"mem_userid";s:10:"hyunji6298";s:12:"mem_username";s:9:"구현지";s:12:"mem_nickname";s:9:"구현지";s:12:"mem_is_admin";s:1:"0";s:8:"mem_icon";s:0:"";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:20;s:8:"row_data";N;}

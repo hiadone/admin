@@ -1,0 +1,57 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:2:{i:0;a:37:{s:7:"post_id";s:1:"7";s:8:"post_num";s:2:"-6";s:10:"post_reply";s:0:"";s:6:"brd_id";s:2:"11";s:10:"post_title";s:9:"애드팝";s:12:"post_content";s:626:"$sCode = "04Gd" ;//pv 체크
+$sIfrCode1 = "04LZ";	// 전체기사
+$sIfrCode2 = "04Lx";	// 포토뉴스
+$sIfrCode3 = "04JL";   // 많이본 뉴스
+$sIfrCode4 = "04K1";	// 베스트 신문보기
+$sIfrCode5 = "04Ja";	// 주간 핫 리포트
+$sIfrCode7 = "04Ku";	// 요일별 웹툰
+$sIfrCode8 = "04LG";	// 인기웹툰
+$sIfrCode9 = "04KL";	// 베스트TV
+$sIfrCode10 = "04ML";	// 푸터배너
+$sIfrCode11 = "04KL";	// 베스트웹툰 랜덤
+$sIfrCode12 = "032y";  //탑배너
+$sIfrCode13 = "04Me";  //신규생활정보
+$sIfrCode14 = "03Ff";  //베스트신문보기 배너형
+$sIfrCode15 = "069Q";  // 인기신작";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-17 11:38:28";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-16 11:48:55";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"25";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:5:"adpop";s:7:"post_js";s:124:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=adpop&brd_key=any'></script>";}i:1;a:37:{s:7:"post_id";s:1:"3";s:8:"post_num";s:2:"-3";s:10:"post_reply";s:0:"";s:6:"brd_id";s:2:"11";s:10:"post_title";s:12:"머니위크";s:12:"post_content";s:625:"$sCode = "02ca" ;//pv 체크
+$sIfrCode1 = "02cI";	// 전체기사
+$sIfrCode2 = "04f2";	// 포토뉴스
+$sIfrCode3 = "02cF";   // 많이본 뉴스
+$sIfrCode4 = "02cH";	// 베스트 신문보기
+$sIfrCode5 = "04eJ";	// 주간 핫 리포트
+$sIfrCode7 = "04ek";	// 요일별 웹툰
+$sIfrCode8 = "04en";	// 인기웹툰
+$sIfrCode9 = "04eY";	// 베스트TV
+$sIfrCode10 = "04f8";	// 푸터배너
+$sIfrCode11 = "04eY";	// 베스트웹툰 랜덤
+$sIfrCode12 = "032y";  //탑배너
+$sIfrCode13 = "0321";  //신규생활정보
+$sIfrCode14 = "03Ff";  //베스트신문보기 배너형
+$sIfrCode15 = "065S";  //인기신작";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"1";s:11:"post_userid";s:5:"admin";s:13:"post_username";s:9:"관리자";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-16 13:43:57";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-01 16:35:09";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"21";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:7:"moneyWe";s:7:"post_js";s:126:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=moneyWe&brd_key=any'></script>";}}s:13:"result_object";a:2:{i:0;O:8:"stdClass":37:{s:7:"post_id";s:1:"7";s:8:"post_num";s:2:"-6";s:10:"post_reply";s:0:"";s:6:"brd_id";s:2:"11";s:10:"post_title";s:9:"애드팝";s:12:"post_content";s:626:"$sCode = "04Gd" ;//pv 체크
+$sIfrCode1 = "04LZ";	// 전체기사
+$sIfrCode2 = "04Lx";	// 포토뉴스
+$sIfrCode3 = "04JL";   // 많이본 뉴스
+$sIfrCode4 = "04K1";	// 베스트 신문보기
+$sIfrCode5 = "04Ja";	// 주간 핫 리포트
+$sIfrCode7 = "04Ku";	// 요일별 웹툰
+$sIfrCode8 = "04LG";	// 인기웹툰
+$sIfrCode9 = "04KL";	// 베스트TV
+$sIfrCode10 = "04ML";	// 푸터배너
+$sIfrCode11 = "04KL";	// 베스트웹툰 랜덤
+$sIfrCode12 = "032y";  //탑배너
+$sIfrCode13 = "04Me";  //신규생활정보
+$sIfrCode14 = "03Ff";  //베스트신문보기 배너형
+$sIfrCode15 = "069Q";  // 인기신작";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-17 11:38:28";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-16 11:48:55";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"25";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:5:"adpop";s:7:"post_js";s:124:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=adpop&brd_key=any'></script>";}i:1;O:8:"stdClass":37:{s:7:"post_id";s:1:"3";s:8:"post_num";s:2:"-3";s:10:"post_reply";s:0:"";s:6:"brd_id";s:2:"11";s:10:"post_title";s:12:"머니위크";s:12:"post_content";s:625:"$sCode = "02ca" ;//pv 체크
+$sIfrCode1 = "02cI";	// 전체기사
+$sIfrCode2 = "04f2";	// 포토뉴스
+$sIfrCode3 = "02cF";   // 많이본 뉴스
+$sIfrCode4 = "02cH";	// 베스트 신문보기
+$sIfrCode5 = "04eJ";	// 주간 핫 리포트
+$sIfrCode7 = "04ek";	// 요일별 웹툰
+$sIfrCode8 = "04en";	// 인기웹툰
+$sIfrCode9 = "04eY";	// 베스트TV
+$sIfrCode10 = "04f8";	// 푸터배너
+$sIfrCode11 = "04eY";	// 베스트웹툰 랜덤
+$sIfrCode12 = "032y";  //탑배너
+$sIfrCode13 = "0321";  //신규생활정보
+$sIfrCode14 = "03Ff";  //베스트신문보기 배너형
+$sIfrCode15 = "065S";  //인기신작";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"1";s:11:"post_userid";s:5:"admin";s:13:"post_username";s:9:"관리자";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-05-16 13:43:57";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-06-01 16:35:09";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"1";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:2:"21";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"175.197.99.25";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:7:"moneyWe";s:7:"post_js";s:126:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=moneyWe&brd_key=any'></script>";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:2;s:8:"row_data";N;}

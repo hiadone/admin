@@ -47,7 +47,7 @@ class Cron extends CB_Controller {
              $this->Popstate_stat_model->replace($value);
          }
 
-        $criterion = cdate('Y-m-d H:i:s', strtotime(cdate('Y-m-d H').'0000'.'-1 hour'));
+        $criterion = cdate('Y-m-d H:i:s', strtotime('-1 hour'));
 
         $deletewhere = array(
                     'pl_datetime <=' => $criterion,

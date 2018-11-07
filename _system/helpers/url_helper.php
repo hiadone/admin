@@ -451,7 +451,8 @@ if ( ! function_exists('prep_url'))
 		$url = parse_url($str);
 
 		if ( ! $url OR ! isset($url['scheme']))
-		{
+		{	
+			$str = str_replace('http://','',$str);
 			return 'http://'.$str;
 		}
 

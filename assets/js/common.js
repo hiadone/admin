@@ -752,7 +752,7 @@ if (typeof(COMMON_JS) === 'undefined') {
             return false;
         }
 
-        href = url;
+        href = url+"&"+(new Date()).getTime();
         var $that = $(this);
         $.ajax({
             url : href,

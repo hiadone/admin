@@ -1,0 +1,43 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:37:{s:7:"post_id";s:2:"69";s:8:"post_num";s:3:"-64";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"6";s:10:"post_title";s:12:"이데일리";s:12:"post_content";s:965:"$sCode = "06kb" ;//pv 체크0.
+ $sIfrCode1 = "04fw" ;// 전체기사
+$sIfrCode2 = "04g2" ;// 포토뉴스
+$sIfrCode3 = "04fG" ;// 많이본 뉴스
+$sIfrCode4 = "04fS" ;// 베스트 신문보기
+$sIfrCode5 = "04fM" ;// 주간 핫 리포트
+$sIfrCode7 = "04fk" ;// 요일별 웹툰
+$sIfrCode8 = "04fq" ;// 인기웹툰
+$sIfrCode9 = "04fY" ;// 베스트TV
+ $sIfrCode10 = "04gJ" ;// 푸터배너
+$sIfrCode11 = "04fY" ;// 베스트웹툰 랜덤
+$sIfrCode13 = "04gD" ;//신규생활정보
+$sIfrCode15 = "065d" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dp"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dN"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eV"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eA"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06es"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-07-13 11:32:53";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-13 11:41:33";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"0";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"5";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"61.82.191.161";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"edaily";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=edaily&brd_key=pop'></script>";}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":37:{s:7:"post_id";s:2:"69";s:8:"post_num";s:3:"-64";s:10:"post_reply";s:0:"";s:6:"brd_id";s:1:"6";s:10:"post_title";s:12:"이데일리";s:12:"post_content";s:965:"$sCode = "06kb" ;//pv 체크0.
+ $sIfrCode1 = "04fw" ;// 전체기사
+$sIfrCode2 = "04g2" ;// 포토뉴스
+$sIfrCode3 = "04fG" ;// 많이본 뉴스
+$sIfrCode4 = "04fS" ;// 베스트 신문보기
+$sIfrCode5 = "04fM" ;// 주간 핫 리포트
+$sIfrCode7 = "04fk" ;// 요일별 웹툰
+$sIfrCode8 = "04fq" ;// 인기웹툰
+$sIfrCode9 = "04fY" ;// 베스트TV
+ $sIfrCode10 = "04gJ" ;// 푸터배너
+$sIfrCode11 = "04fY" ;// 베스트웹툰 랜덤
+$sIfrCode13 = "04gD" ;//신규생활정보
+$sIfrCode15 = "065d" ;//인기신작
+
+// 성인웹툰
+$pageid30 = "06dp"; // 성인_실시간인기웹툰_6슬롯_328X200
+ $pageid31 = "06dN"; // PD 강력추천작_302X200
+ $pageid32 = "06ey"; // 성인_배너_1_360X15
+ $pageid33 = "06eV"; // 정주행 추천작_9슬롯_214X200
+ $pageid34 = "06ez"; // 성인_배너_2_360X150
+ $pageid35 = "06eA"; // 성인_당신의 판타지를 이뤄줄 그녀들_214X200
+ $pageid36 = "06es"; // 성인_하단배너_670X400";s:13:"post_category";s:0:"";s:6:"mem_id";s:1:"3";s:11:"post_userid";s:10:"hyunji6298";s:13:"post_username";s:9:"구현지";s:13:"post_nickname";s:9:"구현지";s:10:"post_email";s:19:"hyunji6298@nate.com";s:13:"post_homepage";s:0:"";s:13:"post_datetime";s:19:"2017-07-13 11:32:53";s:13:"post_password";s:0:"";s:21:"post_updated_datetime";s:19:"2017-07-13 11:41:33";s:18:"post_update_mem_id";s:1:"3";s:18:"post_comment_count";s:1:"0";s:29:"post_comment_updated_datetime";N;s:15:"post_link_count";s:1:"0";s:11:"post_secret";s:1:"0";s:9:"post_html";s:1:"0";s:17:"post_hide_comment";s:1:"0";s:11:"post_notice";s:1:"0";s:18:"post_receive_email";s:1:"0";s:8:"post_hit";s:1:"5";s:9:"post_like";s:1:"0";s:12:"post_dislike";s:1:"0";s:7:"post_ip";s:13:"61.82.191.161";s:10:"post_blame";s:1:"0";s:11:"post_device";s:7:"desktop";s:9:"post_file";s:1:"0";s:10:"post_image";s:1:"0";s:8:"post_del";s:1:"0";s:6:"ppo_id";s:1:"0";s:7:"post_md";s:6:"edaily";s:7:"post_js";s:125:"<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=edaily&brd_key=pop'></script>";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}

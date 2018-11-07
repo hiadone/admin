@@ -18,6 +18,8 @@ class Event_postact_post_extra extends CI_Controller
         Events::register('after_anytoon', array($this, 'after_anytoon'));
         Events::register('after_tomix', array($this, 'after_tomix'));
         Events::register('after_toptoon', array($this, 'after_toptoon'));
+        Events::register('after_issue_1', array($this, 'after_issue_1'));
+        Events::register('after_issue_2', array($this, 'after_issue_2'));
     }
      
     public function after_hiadone_newspopcon() {
@@ -104,5 +106,25 @@ class Event_postact_post_extra extends CI_Controller
         return $result;
     }
   
-    
+    public function after_issue_1() {
+         
+        $result = array();
+  
+   
+        
+        $result['url'] = 'http://issuepopcon.com/common/create_file.php?brd_key=issue_1';
+  
+        return $result;
+    }
+
+    public function after_issue_2() {
+         
+        $result = array();
+  
+   
+        
+        $result['url'] = 'http://issuepopcon.com/common/create_file.php?brd_key=issue_2';
+  
+        return $result;
+    }
 }

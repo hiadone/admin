@@ -1,5 +1,6 @@
 <?php 
 $extra_vars = element('extravars',element('post',$view));
+$post_md = element('post_md',element('post',$view));
 $post_link = element('link',$view);
 $popstate_url="";
 
@@ -27,14 +28,23 @@ if($extra_vars['popstate']==='enable'){
  <?php if ( $popstate === 1 && $popstate_url) { ?>
 
 <script language = "javascript"> 
-
+ var stateObj = { forward: "forward" };
     $(document).ready(function() {
     if (window.history && window.history.pushState) {
-        window.history.pushState('forward', null, document.location.href);
-        
-        var popped = ('state' in window.history && window.history.state !== null), initialURL = location.href;
+
+        <?php if($post_md==='ilyosisa'){ ?>
+          if(window.history.length < 3)
+            window.history.pushState(stateObj, null, 'namdonews.com');
+          else 
+            window.history.replaceState(stateObj, null, 'namdonews.com');
+        <?php } else { ?>
+          if('state' in window.history && window.history.state !== null && window.history.state.forward == 'forward') window.history.replaceState(stateObj, null, document.location.href);
+          else window.history.pushState(stateObj, null, document.location.href);
+        <?php } ?>
+        var popped = ('state' in window.history && window.history.state !== null && window.history.state.forward == 'forward'), initialURL = location.href;
 
         $(window).bind('popstate', function (event) {
+
           // Ignore inital popstate that some browsers fire on page load
           var initialPop = !popped && location.href == initialURL
           popped = true
@@ -48,27 +58,6 @@ if($extra_vars['popstate']==='enable'){
 });
 </script>
 <?php } ?>
-<script language = "javascript"> 
-
-function pelicanCount(value) {
-
-   
-    $.ajax({
-        type: "GET", 
-        async: true,
-        url: foinUrl, 
-        cache: false, 
-        dataType: "jsonp", 
-        jsonp: "jquerycallback",
-        success: function(data) 
-        {
-            
-        },
-        error: function(xhr, status, error) {} 
-    });
-    parent.top.location.replace("https://ref.ad-brix.com/v1/referrallink?ak=905994553&ck=7650783&Deeplink=true");
-}
-</script>
 <script>
   // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

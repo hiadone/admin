@@ -157,9 +157,9 @@
                 </div>
             <?php } ?>
             <div class="form-group">
-                <label for="post_title" class="col-sm-2 control-label">MD 코드</label>
+                <label for="post_md" class="col-sm-2 control-label">MD 코드</label>
                 <div class="col-sm-10" style="display:table;">
-                    <input type="text" class="form-control" name="post_md" id="post_md" value="<?php echo set_value('post_md', element('post_md', element('post', $view))); ?>" />
+                    <input type="text" class="form-control" name="post_md" id="post_md" value="<?php echo set_value('post_md', element('post_md', element('post', $view))); ?>" <?php echo element('post_md', element('post', $view)) ? 'readonly':''; ?>/> 해당 게시판내의 고유코드로 입력
                 </div>
             </div>
             <?php
@@ -445,7 +445,7 @@ $(function() {
         rules: {
             post_title: {required :true, minlength:2, maxlength:60},
             post_md: {required :true, minlength:2, maxlength:60},
-            post_content : {<?php echo (element('use_dhtml', element('board', $view))) ? 'required_' . $this->cbconfig->item('post_editor_type') : 'required'; ?> : true }
+            
 <?php if (element('is_post_name', element('post', $view))) { ?>
             , post_nickname: {required :true, minlength:2, maxlength:20}
             , post_email: {required :true, email:true}
