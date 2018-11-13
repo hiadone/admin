@@ -190,7 +190,7 @@ class Board_write extends CB_Controller
     public function _write_common($board, $origin = '', $reply = '')
     {
         // 이벤트 라이브러리를 로딩합니다
-        $eventname = 'event_board_write_write_common';
+        $eventname = 'event_board_write_modify';
         $this->load->event($eventname);
 
         $param =& $this->querystring;
@@ -783,7 +783,7 @@ class Board_write extends CB_Controller
 
             $post_title = $this->input->post('post_title', null, '');
             $post_md = $this->input->post('post_md', null, '');
-            $post_js = "<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=".$post_md."&brd_key=".element('brd_key', $board)."'></script>";
+            $post_js = "<script type='text/javascript' src='http://admin.dbpopcon.com/views/press/press.js?post_md=".$post_md."&brd_key=".element('brd_key', $board)."'></script>";
             $post_content = $this->input->post('post_content', null, '');
             if (element('save_external_image', $board)) {
                 $post_content = $this->imagelib->replace_external_image($post_content);
@@ -1346,7 +1346,7 @@ class Board_write extends CB_Controller
             );
 
             // 이벤트가 존재하면 실행합니다
-            Events::trigger('common_after'.element('brd_key', $board), $eventname);
+            Events::trigger('after_post_update_'.element('brd_key', $board), $eventname);
             /**
              * 게시물의 신규입력 또는 수정작업이 끝난 후 뷰 페이지로 이동합니다
              */
@@ -2101,7 +2101,7 @@ class Board_write extends CB_Controller
 
             $post_title = $this->input->post('post_title', null, '');
             $post_md = $this->input->post('post_md', null, '');
-            $post_js = "<script type='text/javascript' src='http://admin.newdealpopcon.com/views/press/press.js?post_md=".$post_md."&brd_key=".element('brd_key', $board)."'></script>";
+            $post_js = "<script type='text/javascript' src='http://admin.dbpopcon.com/views/press/press.js?post_md=".$post_md."&brd_key=".element('brd_key', $board)."'></script>";
             $post_content = $this->input->post('post_content', null, '');
             if (element('save_external_image', $board)) {
                 $post_content = $this->imagelib->replace_external_image($post_content);
@@ -2505,7 +2505,7 @@ class Board_write extends CB_Controller
             }
 
             // 이벤트가 존재하면 실행합니다
-            //Events::trigger('after', $eventname);
+            Events::trigger('after_post_update_'.element('brd_key', $board), $eventname);
             
 
 

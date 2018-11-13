@@ -1768,7 +1768,7 @@ class Postact extends CB_Controller
     {
 
         // 이벤트 라이브러리를 로딩합니다
-        $eventname = 'event_postact_post_extra';
+        $eventname = 'event_board_write_modify';
         $this->load->event($eventname);
 
         // 이벤트가 존재하면 실행합니다
@@ -1812,11 +1812,11 @@ class Postact extends CB_Controller
         $this->Post_extra_vars_model->save($post_id, element('brd_id', $post), $extradata);
 
         // 이벤트가 존재하면 실행합니다
-        $events_result = Events::trigger('after_'.element('brd_key', $board), $eventname);
-
+        
+        Events::trigger('after_post_update_'.element('brd_key', $board), $eventname);
         
         $success = '후팝업 기능을 '.$flag.' 처리하셨습니다' ;
-        $result = array('success' => $success,'url'=>$events_result[0]['url']);
+        $result = array('success' => $success);
         exit(json_encode($result));
 
     }

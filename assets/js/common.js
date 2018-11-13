@@ -312,8 +312,7 @@ if (typeof(COMMON_JS) === 'undefined') {
                 } else if (data.success) {
                     alert(data.success);
                     if (data.url) {
-                        pressCreateFile(data.url);
-                        document.location.reload();
+                        document.location.href=data.url;
                     } else {
                         document.location.reload();
                     }
@@ -745,29 +744,29 @@ if (typeof(COMMON_JS) === 'undefined') {
         });
     }
 
-    function pressCreateFile(url) {
-        var href;
+    // function pressCreateFile(url) {
+    //     var href;
 
-        if ( url == '') {
-            return false;
-        }
+    //     if ( url == '') {
+    //         return false;
+    //     }
 
-        href = url+"&"+(new Date()).getTime();
-        var $that = $(this);
-        $.ajax({
-            url : href,
-            type : 'get',
-            dataType : 'json',
-            success : function(data) {
-                if (data.error) {
-                    alert(data.error);
-                    return false;
-                } else if (data.success) {
+    //     href = url+"&"+(new Date()).getTime();
+    //     var $that = $(this);
+    //     $.ajax({
+    //         url : href,
+    //         type : 'get',
+    //         dataType : 'json',
+    //         success : function(data) {
+    //             if (data.error) {
+    //                 alert(data.error);
+    //                 return false;
+    //             } else if (data.success) {
                     
-                }
-            }
-        });
-    }
+    //             }
+    //         }
+    //     });
+    // }
 
     $(document).on('click', '.notifications', function() {
         var display = $('.notifications-menu').css('display');

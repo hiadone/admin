@@ -130,6 +130,7 @@ class Board_post extends CB_Controller
      */
     public function post($post_id = 0, $print = false)
     {
+
         // 이벤트 라이브러리를 로딩합니다
         $eventname = 'event_board_post_post';
         $this->load->event($eventname);

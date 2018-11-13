@@ -228,7 +228,7 @@ var cookie_prefix = "<?php echo config_item('cookie_prefix'); ?>";
 
     <!-- footer start -->
     <footer>
-        <!-- <div class="container">
+        <div class="container">
             <div>
                 <ul class="company">
                     <li><a href="<?php echo document_url('aboutus'); ?>" title="회사소개">회사소개</a></li>
@@ -273,7 +273,7 @@ var cookie_prefix = "<?php echo config_item('cookie_prefix'); ?>";
                 }
             }
             ?>
-        </div> -->
+        </div>
     </footer>
     <!-- footer end -->
 </div>

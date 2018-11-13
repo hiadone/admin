@@ -218,7 +218,7 @@ class Login extends CB_Controller
             if (empty($url_after_login)) {
                 $url_after_login = $this->input->get_post('url') ? urldecode($this->input->get_post('url')) : site_url();
             }
-
+            
             // 이벤트가 존재하면 실행합니다
             Events::trigger('after', $eventname);
 
